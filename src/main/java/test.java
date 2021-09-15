@@ -135,5 +135,6 @@ public class test {
         clickButtonCatalogOfCourse();
         filterCourse("C#");
         chooseCourse();
+        wd.quit();
     }
 }
