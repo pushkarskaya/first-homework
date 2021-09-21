@@ -1,21 +1,14 @@
+
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
-//import org.junit.Assert;
-//import org.junit.jupiter.api.Test;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.PageFactory;
-
 import java.util.ArrayList;
 import java.util.List;
-
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
-
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -28,8 +21,6 @@ public class test {
     private WebDriver wd;
     List<String> browserOptions = new ArrayList();
     String url = "https://otus.ru";
-
-    //private WebDriver driver;
     private By catalogOfCourse = By.cssSelector("a[title='Каталог курсов']");
 
     public void clickButtonCatalogOfCourse() {
@@ -53,67 +44,65 @@ public class test {
         logger.info("Найдено курсов, содержащих в названии текст " + keyword + ": " + count);
     }
 
-    public void chooseCourse() throws ParseException {
-
-        List<String> arrayofDates = new ArrayList<String>();
-        List<Date> parsedDates = new ArrayList<Date>();
-        int countOfAllDates = wd.findElements(By.cssSelector(".lessons__new-item-start")).size();
-        List<WebElement> allDates = wd.findElements(By.cssSelector(".lessons__new-item-start"));
-        for (int i = 0; i < countOfAllDates; i++) {
-            if (allDates.get(i).getText().contains("2022")) {
-                String newDate1 = allDates.get(i).getText().replace("С ", "");
-                arrayofDates.add(i, newDate1);
-            } else {
-                String newDate2 = allDates.get(i).getText().replace("С ", "");
-                arrayofDates.add(i, newDate2 + " 2021 года");
-            }
-            logger.info(arrayofDates.get(i));
+    public void chooseCourse() {
             DateFormat date = new SimpleDateFormat("dd MMMM yyyy", new Locale("ru"));
-            if ((arrayofDates.get(i).contains("В")) || (arrayofDates.get(i).contains("О дате старта будет объявлено позже"))) {
-                logger.info("Курс не имеет точной даты начала");
-            } else {
-                String stringDate = arrayofDates.get(i);
-                Date date1 = date.parse(stringDate);
-                logger.info(date1.toLocaleString());
-                parsedDates.add(date1);
-            }
-        }
+        List<Date> dates = wd.findElements(By.cssSelector(".lessons__new-item-start"))
+                .stream()
+                .filter(webElement -> {
+                    String text=webElement.getText();
+                    return !text.contains("О дате старта") && !text.startsWith("В");
+                })
+                .map(webElement -> {
+                    String currentDate = webElement.getText().replace("С ", "");
+                    if (!currentDate.contains("2022"))  {
+                        currentDate+=" 2021";
+                    }
+                    try {
+                        logger.info(currentDate);
+                        logger.info(date.parse(currentDate));
+                        return date.parse(currentDate);
 
-        Date firstDate = parsedDates.stream().reduce(parsedDates.get(1), (date1, date2) -> date1.compareTo(date2) < 0 ? date1 : date2);
-        Date lastDate = parsedDates.stream().reduce(parsedDates.get(1), (date1, date2) -> date1.compareTo(date2) < 0 ? date2 : date1);
+                    } catch (ParseException e) {
+                        e.printStackTrace();
+                        throw new RuntimeException(e);
+                    }
+                }).toList();
+
+        Date firstDate = dates.stream().reduce(dates.get(1), (date1, date2) -> date1.compareTo(date2) < 0 ? date1 : date2);
+        Date lastDate = dates.stream().reduce(dates.get(1), (date1, date2) -> date1.compareTo(date2) < 0 ? date2 : date1);
         logger.info("Самая ранняя дата начала курсов");
-        logger.info(firstDate.toLocaleString());
+        logger.info(firstDate.toString());
         logger.info("Самая поздняя дата начала курсов");
-        logger.info(lastDate.toLocaleString());
-
+        logger.info(lastDate.toString());
+        clickButtonCatalogOfCourse();
         String nameOfChoosedCourseFirst = chooseCourseByDate(firstDate);
         logger.info("Выбран курс с самой ранней датой начала " + nameOfChoosedCourseFirst);
         clickButtonCatalogOfCourse();
         String nameOfChoosedCourseLast = chooseCourseByDate(lastDate);
         logger.info("Выбран курс с самой поздней датой начала " + nameOfChoosedCourseLast);
-
     }
 
-    String chooseCourseByDate(Date dateOfCourse) throws ParseException {
 
-        DateFormat dateFormat = new SimpleDateFormat("dd MMMM yyyy", new Locale("ru"));
-        Date date = dateFormat.parse(dateOfCourse.toLocaleString());
+    String chooseCourseByDate(Date dateOfCourse) {
 
-        logger.info("Распарсили дату " + date.toLocaleString());
+        final String DATE_FORMAT = "EEE MMM d HH:mm:ss z yyyy";
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat(DATE_FORMAT, Locale.ROOT);
+        Date  newDate= new Date();
+        try {
+             newDate = simpleDateFormat.parse(dateOfCourse.toString());
+             logger.info(newDate);
 
-        SimpleDateFormat out = new SimpleDateFormat("dd MMMM");
-        String formatedDate = out.format(date);
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
 
-//        Date lastParsedDate = dateFormat.parse(lastDate.toLocaleString());
-//        String newlastParsedDate = out.format(lastParsedDate);
-
+        DateFormat dateFormatOut = new SimpleDateFormat("dd MMMM", new Locale("ru"));
+        logger.info(dateFormatOut.format(newDate));
+        String ruDate=dateFormatOut.format(newDate);
         Actions builder = setActionsBuilder();
-        WebElement courseFirst = wd.findElement(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + formatedDate + "')]//ancestor::div[contains(@class,'lessons__new-item-container')]"));
-        String nameOfCourse = wd.findElement(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + formatedDate + "')]//ancestor::div[contains(@class,'lessons__new-item-container')]//descendant::div[contains(@class,'lessons__new-item-title')]")).getText();
-        builder.contextClick(courseFirst).click().pause(1000).build().perform();
-
-//*[contains(@class, 'lessons__new-item')]/*[contains(@class, 'lessons__new-item-start') and contains(normalize-space(), '31 августа')]
-        //logger.info("Распарсили дату " + lastParsedDate.toLocaleString());
+        WebElement courseFirst = wd.findElement(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + ruDate+ "')]//ancestor::div[contains(@class,'lessons__new-item-container')]"));
+        String nameOfCourse = wd.findElement(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + ruDate+ "')]//ancestor::div[contains(@class,'lessons__new-item-container')]//descendant::div[contains(@class,'lessons__new-item-title')]")).getText();
+        builder.contextClick(courseFirst).click().pause(2000).build().perform();
         return nameOfCourse;
     }
 
@@ -122,13 +111,13 @@ public class test {
     }
 
     @Test
-    public void filterAndChooseCourse() throws InterruptedException, ParseException {
+    public void filterAndChooseCourse()  {
         logger.info("Старт теста");
-        browserOptions.add("--start-fullscreen");
+       // browserOptions.add("--start-fullscreen");
         browserOptions.add("--incognito");
         browserOptions.add("--disable-notifications");
         wd = WebDriverFactory.createNewDriver(webDriverName.CHROME, browserOptions);
-        wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        wd.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         wd.get(url);
         Assert.assertEquals("Онлайн‑курсы для профессионалов, дистанционное обучение современным профессиям",
                 wd.getTitle());
