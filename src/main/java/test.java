@@ -4,11 +4,14 @@ import org.apache.logging.log4j.LogManager;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import java.util.ArrayList;
 import java.util.List;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -19,6 +22,8 @@ import java.util.concurrent.TimeUnit;
 public class test {
     private Logger logger = LogManager.getLogger(test.class);
     private WebDriver wd;
+
+
     List<String> browserOptions = new ArrayList();
     String url = "https://otus.ru";
     private By catalogOfCourse = By.cssSelector("a[title='Каталог курсов']");
@@ -45,17 +50,17 @@ public class test {
     }
 
     public void chooseCourse() {
-            DateFormat date = new SimpleDateFormat("dd MMMM yyyy", new Locale("ru"));
+        DateFormat date = new SimpleDateFormat("dd MMMM yyyy", new Locale("ru"));
         List<Date> dates = wd.findElements(By.cssSelector(".lessons__new-item-start"))
                 .stream()
                 .filter(webElement -> {
-                    String text=webElement.getText();
+                    String text = webElement.getText();
                     return !text.contains("О дате старта") && !text.startsWith("В");
                 })
                 .map(webElement -> {
                     String currentDate = webElement.getText().replace("С ", "");
-                    if (!currentDate.contains("2022"))  {
-                        currentDate+=" 2021";
+                    if (!currentDate.contains("2022")) {
+                        currentDate += " 2021";
                     }
                     try {
                         logger.info(currentDate);
@@ -74,12 +79,13 @@ public class test {
         logger.info(firstDate.toString());
         logger.info("Самая поздняя дата начала курсов");
         logger.info(lastDate.toString());
-        clickButtonCatalogOfCourse();
+        //clickButtonCatalogOfCourse();
         String nameOfChoosedCourseFirst = chooseCourseByDate(firstDate);
         logger.info("Выбран курс с самой ранней датой начала " + nameOfChoosedCourseFirst);
         clickButtonCatalogOfCourse();
         String nameOfChoosedCourseLast = chooseCourseByDate(lastDate);
         logger.info("Выбран курс с самой поздней датой начала " + nameOfChoosedCourseLast);
+
     }
 
 
@@ -87,10 +93,10 @@ public class test {
 
         final String DATE_FORMAT = "EEE MMM d HH:mm:ss z yyyy";
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat(DATE_FORMAT, Locale.ROOT);
-        Date  newDate= new Date();
+        Date newDate = new Date();
         try {
-             newDate = simpleDateFormat.parse(dateOfCourse.toString());
-             logger.info(newDate);
+            newDate = simpleDateFormat.parse(dateOfCourse.toString());
+            logger.info(newDate);
 
         } catch (ParseException e) {
             e.printStackTrace();
@@ -98,11 +104,20 @@ public class test {
 
         DateFormat dateFormatOut = new SimpleDateFormat("dd MMMM", new Locale("ru"));
         logger.info(dateFormatOut.format(newDate));
-        String ruDate=dateFormatOut.format(newDate);
+        String ruDate = dateFormatOut.format(newDate);
         Actions builder = setActionsBuilder();
-        WebElement courseFirst = wd.findElement(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + ruDate+ "')]//ancestor::div[contains(@class,'lessons__new-item-container')]"));
-        String nameOfCourse = wd.findElement(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + ruDate+ "')]//ancestor::div[contains(@class,'lessons__new-item-container')]//descendant::div[contains(@class,'lessons__new-item-title')]")).getText();
-        builder.contextClick(courseFirst).click().pause(2000).build().perform();
+        //clickButtonCatalogOfCourse();
+        // WebElement courseFirst = wd.findElement(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + ruDate+ "')]//ancestor::div[contains(@class,'lessons__new-item-container')]"));
+        WebElement courseFirst = (new WebDriverWait(wd, 10)).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + ruDate + "')]//ancestor::div[contains(@class,'lessons__new-item-container')]")));
+        String nameOfCourse = wd.findElement(By.xpath("//div[contains(@class,'lessons__new-item-start') and contains(normalize-space(), '" + ruDate + "')]//ancestor::div[contains(@class,'lessons__new-item-container')]//descendant::div[contains(@class,'lessons__new-item-title')]")).getText();
+
+        if (wd instanceof JavascriptExecutor) {
+            ((JavascriptExecutor) wd).executeScript("arguments[0].style.border='5px solid blue'", courseFirst);
+        }
+        builder.click(courseFirst).pause(3000).build().perform();
+
+//        builder.contextClick(courseFirst).click().pause(2000).build().perform();
+        // WebElement h1=(new WebDriverWait(wd,10)).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//h1[contains(text(),'')]")));
         return nameOfCourse;
     }
 
@@ -111,9 +126,9 @@ public class test {
     }
 
     @Test
-    public void filterAndChooseCourse()  {
+    public void filterAndChooseCourse() {
         logger.info("Старт теста");
-       // browserOptions.add("--start-fullscreen");
+        // browserOptions.add("--start-fullscreen");
         browserOptions.add("--incognito");
         browserOptions.add("--disable-notifications");
         wd = WebDriverFactory.createNewDriver(webDriverName.CHROME, browserOptions);

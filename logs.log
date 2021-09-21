@@ -11138,3 +11138,2264 @@
 2021-09-21 22:50:34,959 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
 2021-09-21 22:50:34,959 INFO test [main] 28 января
 2021-09-21 22:50:38,005 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:00:44,256 INFO test [main] Старт теста
+2021-09-21 23:01:04,008 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:01:04,606 INFO test [main] C# Developer. Professional
+2021-09-21 23:01:04,718 INFO test [main] C# Developer. Basic
+2021-09-21 23:01:04,732 INFO test [main] Специализация C#
+2021-09-21 23:01:04,873 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:01:05,187 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:01:05,345 INFO test [main] 22 сентября 2021
+2021-09-21 23:01:05,350 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:01:05,383 INFO test [main] 30 сентября 2021
+2021-09-21 23:01:05,384 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:01:05,418 INFO test [main] 28 сентября 2021
+2021-09-21 23:01:05,419 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:01:05,464 INFO test [main] 28 сентября 2021
+2021-09-21 23:01:05,465 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:01:05,497 INFO test [main] 29 сентября 2021
+2021-09-21 23:01:05,498 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:01:05,529 INFO test [main] 30 сентября 2021
+2021-09-21 23:01:05,530 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:01:05,571 INFO test [main] 29 сентября 2021
+2021-09-21 23:01:05,571 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:01:05,597 INFO test [main] 30 сентября 2021
+2021-09-21 23:01:05,598 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:01:05,621 INFO test [main] 30 сентября 2021
+2021-09-21 23:01:05,621 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:01:05,672 INFO test [main] 30 сентября 2021
+2021-09-21 23:01:05,673 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:01:05,774 INFO test [main] 30 сентября 2021
+2021-09-21 23:01:05,775 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:01:05,844 INFO test [main] 28 сентября 2021
+2021-09-21 23:01:05,844 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:01:05,868 INFO test [main] 28 сентября 2021
+2021-09-21 23:01:05,869 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:01:05,901 INFO test [main] 28 сентября 2021
+2021-09-21 23:01:05,901 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:01:05,924 INFO test [main] 28 сентября 2021
+2021-09-21 23:01:05,925 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:01:05,949 INFO test [main] 29 сентября 2021
+2021-09-21 23:01:05,950 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:01:05,973 INFO test [main] 29 сентября 2021
+2021-09-21 23:01:05,974 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:01:06,009 INFO test [main] 30 сентября 2021
+2021-09-21 23:01:06,010 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:01:06,034 INFO test [main] 30 сентября 2021
+2021-09-21 23:01:06,034 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:01:06,065 INFO test [main] 18 октября 2021
+2021-09-21 23:01:06,066 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:01:06,095 INFO test [main] 12 октября 2021
+2021-09-21 23:01:06,096 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:01:06,146 INFO test [main] 26 октября 2021
+2021-09-21 23:01:06,146 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:01:06,181 INFO test [main] 14 октября 2021
+2021-09-21 23:01:06,181 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:01:06,214 INFO test [main] 25 октября 2021
+2021-09-21 23:01:06,214 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:01:06,251 INFO test [main] 25 октября 2021
+2021-09-21 23:01:06,251 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:01:06,280 INFO test [main] 28 октября 2021
+2021-09-21 23:01:06,281 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:01:06,306 INFO test [main] 28 октября 2021
+2021-09-21 23:01:06,307 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:01:06,334 INFO test [main] 28 октября 2021
+2021-09-21 23:01:06,334 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:01:06,369 INFO test [main] 29 октября 2021
+2021-09-21 23:01:06,370 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:01:06,400 INFO test [main] 29 октября 2021
+2021-09-21 23:01:06,401 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:01:06,425 INFO test [main] 29 октября 2021
+2021-09-21 23:01:06,425 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:01:06,459 INFO test [main] 16 ноября 2021
+2021-09-21 23:01:06,460 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:01:06,483 INFO test [main] 19 ноября 2021
+2021-09-21 23:01:06,483 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:01:06,583 INFO test [main] 17 ноября 2021
+2021-09-21 23:01:06,584 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:01:06,605 INFO test [main] 26 ноября 2021
+2021-09-21 23:01:06,606 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:01:06,627 INFO test [main] 29 ноября 2021
+2021-09-21 23:01:06,628 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:01:06,670 INFO test [main] 16 декабря 2021
+2021-09-21 23:01:06,670 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:01:06,693 INFO test [main] 28 января 2022 года
+2021-09-21 23:01:06,694 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:01:06,849 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:01:06,850 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:01:06,850 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:01:06,850 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:01:08,685 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:01:08,686 INFO test [main] 22 сентября
+2021-09-21 23:01:14,794 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:01:16,824 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:01:16,827 INFO test [main] 28 января
+2021-09-21 23:01:21,500 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:03:17,881 INFO test [main] Старт теста
+2021-09-21 23:03:33,673 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:03:34,323 INFO test [main] C# Developer. Professional
+2021-09-21 23:03:34,419 INFO test [main] C# Developer. Basic
+2021-09-21 23:03:34,431 INFO test [main] Специализация C#
+2021-09-21 23:03:34,546 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:03:34,815 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:03:34,963 INFO test [main] 22 сентября 2021
+2021-09-21 23:03:34,966 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:03:34,992 INFO test [main] 30 сентября 2021
+2021-09-21 23:03:34,993 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:03:35,020 INFO test [main] 28 сентября 2021
+2021-09-21 23:03:35,021 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,044 INFO test [main] 28 сентября 2021
+2021-09-21 23:03:35,045 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,067 INFO test [main] 29 сентября 2021
+2021-09-21 23:03:35,068 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:03:35,092 INFO test [main] 30 сентября 2021
+2021-09-21 23:03:35,093 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:03:35,116 INFO test [main] 29 сентября 2021
+2021-09-21 23:03:35,116 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:03:35,139 INFO test [main] 30 сентября 2021
+2021-09-21 23:03:35,140 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:03:35,160 INFO test [main] 30 сентября 2021
+2021-09-21 23:03:35,161 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:03:35,184 INFO test [main] 30 сентября 2021
+2021-09-21 23:03:35,184 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:03:35,205 INFO test [main] 30 сентября 2021
+2021-09-21 23:03:35,205 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:03:35,228 INFO test [main] 28 сентября 2021
+2021-09-21 23:03:35,229 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,250 INFO test [main] 28 сентября 2021
+2021-09-21 23:03:35,251 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,272 INFO test [main] 28 сентября 2021
+2021-09-21 23:03:35,273 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,395 INFO test [main] 28 сентября 2021
+2021-09-21 23:03:35,395 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,481 INFO test [main] 29 сентября 2021
+2021-09-21 23:03:35,482 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:03:35,504 INFO test [main] 29 сентября 2021
+2021-09-21 23:03:35,504 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:03:35,526 INFO test [main] 30 сентября 2021
+2021-09-21 23:03:35,526 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:03:35,546 INFO test [main] 30 сентября 2021
+2021-09-21 23:03:35,546 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:03:35,577 INFO test [main] 18 октября 2021
+2021-09-21 23:03:35,577 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:03:35,601 INFO test [main] 12 октября 2021
+2021-09-21 23:03:35,602 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:03:35,622 INFO test [main] 26 октября 2021
+2021-09-21 23:03:35,623 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:03:35,652 INFO test [main] 14 октября 2021
+2021-09-21 23:03:35,652 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:03:35,685 INFO test [main] 25 октября 2021
+2021-09-21 23:03:35,685 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:03:35,709 INFO test [main] 25 октября 2021
+2021-09-21 23:03:35,709 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:03:35,734 INFO test [main] 28 октября 2021
+2021-09-21 23:03:35,734 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,756 INFO test [main] 28 октября 2021
+2021-09-21 23:03:35,757 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,780 INFO test [main] 28 октября 2021
+2021-09-21 23:03:35,781 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:03:35,814 INFO test [main] 29 октября 2021
+2021-09-21 23:03:35,814 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:03:35,840 INFO test [main] 29 октября 2021
+2021-09-21 23:03:35,840 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:03:35,859 INFO test [main] 29 октября 2021
+2021-09-21 23:03:35,860 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:03:35,877 INFO test [main] 16 ноября 2021
+2021-09-21 23:03:35,877 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:03:35,893 INFO test [main] 19 ноября 2021
+2021-09-21 23:03:35,894 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:03:35,978 INFO test [main] 17 ноября 2021
+2021-09-21 23:03:35,978 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:03:35,997 INFO test [main] 26 ноября 2021
+2021-09-21 23:03:35,998 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:03:36,024 INFO test [main] 29 ноября 2021
+2021-09-21 23:03:36,024 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:03:36,061 INFO test [main] 16 декабря 2021
+2021-09-21 23:03:36,062 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:03:36,080 INFO test [main] 28 января 2022 года
+2021-09-21 23:03:36,080 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:03:36,217 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:03:36,217 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:03:36,217 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:03:36,217 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:03:39,013 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:03:39,014 INFO test [main] 22 сентября
+2021-09-21 23:03:44,299 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:03:46,792 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:03:46,793 INFO test [main] 28 января
+2021-09-21 23:03:50,274 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:04:25,654 INFO test [main] Старт теста
+2021-09-21 23:05:01,878 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:05:02,348 INFO test [main] C# Developer. Professional
+2021-09-21 23:05:02,447 INFO test [main] C# Developer. Basic
+2021-09-21 23:05:02,458 INFO test [main] Специализация C#
+2021-09-21 23:05:02,568 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:05:02,866 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:05:03,010 INFO test [main] 22 сентября 2021
+2021-09-21 23:05:03,013 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:05:03,084 INFO test [main] 30 сентября 2021
+2021-09-21 23:05:03,085 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:05:03,158 INFO test [main] 28 сентября 2021
+2021-09-21 23:05:03,159 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,181 INFO test [main] 28 сентября 2021
+2021-09-21 23:05:03,182 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,204 INFO test [main] 29 сентября 2021
+2021-09-21 23:05:03,205 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:05:03,229 INFO test [main] 30 сентября 2021
+2021-09-21 23:05:03,230 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:05:03,263 INFO test [main] 29 сентября 2021
+2021-09-21 23:05:03,264 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:05:03,286 INFO test [main] 30 сентября 2021
+2021-09-21 23:05:03,286 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:05:03,307 INFO test [main] 30 сентября 2021
+2021-09-21 23:05:03,307 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:05:03,332 INFO test [main] 30 сентября 2021
+2021-09-21 23:05:03,332 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:05:03,353 INFO test [main] 30 сентября 2021
+2021-09-21 23:05:03,354 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:05:03,386 INFO test [main] 28 сентября 2021
+2021-09-21 23:05:03,387 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,408 INFO test [main] 28 сентября 2021
+2021-09-21 23:05:03,409 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,430 INFO test [main] 28 сентября 2021
+2021-09-21 23:05:03,430 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,451 INFO test [main] 28 сентября 2021
+2021-09-21 23:05:03,451 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,482 INFO test [main] 29 сентября 2021
+2021-09-21 23:05:03,482 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:05:03,506 INFO test [main] 29 сентября 2021
+2021-09-21 23:05:03,507 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:05:03,528 INFO test [main] 30 сентября 2021
+2021-09-21 23:05:03,528 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:05:03,550 INFO test [main] 30 сентября 2021
+2021-09-21 23:05:03,550 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:05:03,573 INFO test [main] 18 октября 2021
+2021-09-21 23:05:03,573 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:05:03,607 INFO test [main] 12 октября 2021
+2021-09-21 23:05:03,607 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:05:03,630 INFO test [main] 26 октября 2021
+2021-09-21 23:05:03,631 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:05:03,658 INFO test [main] 14 октября 2021
+2021-09-21 23:05:03,659 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:05:03,686 INFO test [main] 25 октября 2021
+2021-09-21 23:05:03,686 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:05:03,717 INFO test [main] 25 октября 2021
+2021-09-21 23:05:03,718 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:05:03,741 INFO test [main] 28 октября 2021
+2021-09-21 23:05:03,742 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,764 INFO test [main] 28 октября 2021
+2021-09-21 23:05:03,764 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,787 INFO test [main] 28 октября 2021
+2021-09-21 23:05:03,787 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:05:03,812 INFO test [main] 29 октября 2021
+2021-09-21 23:05:03,813 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:05:03,841 INFO test [main] 29 октября 2021
+2021-09-21 23:05:03,842 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:05:03,861 INFO test [main] 29 октября 2021
+2021-09-21 23:05:03,861 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:05:03,879 INFO test [main] 16 ноября 2021
+2021-09-21 23:05:03,879 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:05:03,895 INFO test [main] 19 ноября 2021
+2021-09-21 23:05:03,896 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:05:03,974 INFO test [main] 17 ноября 2021
+2021-09-21 23:05:03,975 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:05:03,993 INFO test [main] 26 ноября 2021
+2021-09-21 23:05:03,993 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:05:04,010 INFO test [main] 29 ноября 2021
+2021-09-21 23:05:04,011 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:05:04,049 INFO test [main] 16 декабря 2021
+2021-09-21 23:05:04,050 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:05:04,067 INFO test [main] 28 января 2022 года
+2021-09-21 23:05:04,068 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:05:04,198 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:05:04,198 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:05:04,198 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:05:04,198 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:05:06,139 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:05:06,139 INFO test [main] 22 сентября
+2021-09-21 23:05:10,763 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:05:13,957 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:05:13,957 INFO test [main] 28 января
+2021-09-21 23:05:17,495 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:06:58,171 INFO test [main] Старт теста
+2021-09-21 23:07:14,631 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:07:15,158 INFO test [main] C# Developer. Professional
+2021-09-21 23:07:15,251 INFO test [main] C# Developer. Basic
+2021-09-21 23:07:15,263 INFO test [main] Специализация C#
+2021-09-21 23:07:15,368 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:07:15,623 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:07:15,733 INFO test [main] 22 сентября 2021
+2021-09-21 23:07:15,735 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:07:15,763 INFO test [main] 30 сентября 2021
+2021-09-21 23:07:15,764 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:07:15,788 INFO test [main] 28 сентября 2021
+2021-09-21 23:07:15,789 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:07:15,809 INFO test [main] 28 сентября 2021
+2021-09-21 23:07:15,810 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:07:15,830 INFO test [main] 29 сентября 2021
+2021-09-21 23:07:15,831 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:07:15,856 INFO test [main] 30 сентября 2021
+2021-09-21 23:07:15,857 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:07:15,879 INFO test [main] 29 сентября 2021
+2021-09-21 23:07:15,879 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:07:15,901 INFO test [main] 30 сентября 2021
+2021-09-21 23:07:15,902 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:07:15,922 INFO test [main] 30 сентября 2021
+2021-09-21 23:07:15,922 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:07:15,944 INFO test [main] 30 сентября 2021
+2021-09-21 23:07:15,944 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:07:15,963 INFO test [main] 30 сентября 2021
+2021-09-21 23:07:15,963 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:07:15,984 INFO test [main] 28 сентября 2021
+2021-09-21 23:07:15,985 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:07:16,004 INFO test [main] 28 сентября 2021
+2021-09-21 23:07:16,004 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:07:16,022 INFO test [main] 28 сентября 2021
+2021-09-21 23:07:16,022 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:07:16,043 INFO test [main] 28 сентября 2021
+2021-09-21 23:07:16,043 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:07:16,063 INFO test [main] 29 сентября 2021
+2021-09-21 23:07:16,063 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:07:16,085 INFO test [main] 29 сентября 2021
+2021-09-21 23:07:16,085 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:07:16,105 INFO test [main] 30 сентября 2021
+2021-09-21 23:07:16,105 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:07:16,126 INFO test [main] 30 сентября 2021
+2021-09-21 23:07:16,126 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:07:16,148 INFO test [main] 18 октября 2021
+2021-09-21 23:07:16,148 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:07:16,171 INFO test [main] 12 октября 2021
+2021-09-21 23:07:16,171 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:07:16,191 INFO test [main] 26 октября 2021
+2021-09-21 23:07:16,192 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:07:16,218 INFO test [main] 14 октября 2021
+2021-09-21 23:07:16,218 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:07:16,335 INFO test [main] 25 октября 2021
+2021-09-21 23:07:16,336 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:07:16,402 INFO test [main] 25 октября 2021
+2021-09-21 23:07:16,402 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:07:16,425 INFO test [main] 28 октября 2021
+2021-09-21 23:07:16,426 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:07:16,458 INFO test [main] 28 октября 2021
+2021-09-21 23:07:16,459 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:07:16,481 INFO test [main] 28 октября 2021
+2021-09-21 23:07:16,481 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:07:16,500 INFO test [main] 29 октября 2021
+2021-09-21 23:07:16,501 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:07:16,526 INFO test [main] 29 октября 2021
+2021-09-21 23:07:16,527 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:07:16,546 INFO test [main] 29 октября 2021
+2021-09-21 23:07:16,546 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:07:16,574 INFO test [main] 16 ноября 2021
+2021-09-21 23:07:16,575 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:07:16,592 INFO test [main] 19 ноября 2021
+2021-09-21 23:07:16,592 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:07:16,685 INFO test [main] 17 ноября 2021
+2021-09-21 23:07:16,685 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:07:16,703 INFO test [main] 26 ноября 2021
+2021-09-21 23:07:16,704 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:07:16,721 INFO test [main] 29 ноября 2021
+2021-09-21 23:07:16,721 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:07:16,758 INFO test [main] 16 декабря 2021
+2021-09-21 23:07:16,758 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:07:16,777 INFO test [main] 28 января 2022 года
+2021-09-21 23:07:16,778 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:07:16,928 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:07:16,929 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:07:16,929 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:07:16,929 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:07:18,556 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:07:18,557 INFO test [main] 22 сентября
+2021-09-21 23:07:24,265 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:07:26,123 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:07:26,123 INFO test [main] 28 января
+2021-09-21 23:07:32,301 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:08:40,654 INFO test [main] Старт теста
+2021-09-21 23:08:56,145 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:08:56,686 INFO test [main] C# Developer. Professional
+2021-09-21 23:08:56,785 INFO test [main] C# Developer. Basic
+2021-09-21 23:08:56,797 INFO test [main] Специализация C#
+2021-09-21 23:08:56,909 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:08:57,184 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:08:57,344 INFO test [main] 22 сентября 2021
+2021-09-21 23:08:57,348 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:08:57,374 INFO test [main] 30 сентября 2021
+2021-09-21 23:08:57,375 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:08:57,402 INFO test [main] 28 сентября 2021
+2021-09-21 23:08:57,403 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:08:57,425 INFO test [main] 28 сентября 2021
+2021-09-21 23:08:57,426 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:08:57,448 INFO test [main] 29 сентября 2021
+2021-09-21 23:08:57,450 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:08:57,481 INFO test [main] 30 сентября 2021
+2021-09-21 23:08:57,483 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:08:57,507 INFO test [main] 29 сентября 2021
+2021-09-21 23:08:57,507 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:08:57,530 INFO test [main] 30 сентября 2021
+2021-09-21 23:08:57,530 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:08:57,550 INFO test [main] 30 сентября 2021
+2021-09-21 23:08:57,550 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:08:57,574 INFO test [main] 30 сентября 2021
+2021-09-21 23:08:57,575 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:08:57,597 INFO test [main] 30 сентября 2021
+2021-09-21 23:08:57,597 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:08:57,622 INFO test [main] 28 сентября 2021
+2021-09-21 23:08:57,622 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:08:57,645 INFO test [main] 28 сентября 2021
+2021-09-21 23:08:57,645 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:08:57,667 INFO test [main] 28 сентября 2021
+2021-09-21 23:08:57,667 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:08:57,689 INFO test [main] 28 сентября 2021
+2021-09-21 23:08:57,690 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:08:57,796 INFO test [main] 29 сентября 2021
+2021-09-21 23:08:57,796 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:08:57,872 INFO test [main] 29 сентября 2021
+2021-09-21 23:08:57,873 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:08:57,895 INFO test [main] 30 сентября 2021
+2021-09-21 23:08:57,895 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:08:57,917 INFO test [main] 30 сентября 2021
+2021-09-21 23:08:57,917 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:08:57,939 INFO test [main] 18 октября 2021
+2021-09-21 23:08:57,939 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:08:57,977 INFO test [main] 12 октября 2021
+2021-09-21 23:08:57,978 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:08:58,000 INFO test [main] 26 октября 2021
+2021-09-21 23:08:58,001 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:08:58,031 INFO test [main] 14 октября 2021
+2021-09-21 23:08:58,032 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:08:58,061 INFO test [main] 25 октября 2021
+2021-09-21 23:08:58,062 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:08:58,089 INFO test [main] 25 октября 2021
+2021-09-21 23:08:58,089 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:08:58,116 INFO test [main] 28 октября 2021
+2021-09-21 23:08:58,117 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:08:58,139 INFO test [main] 28 октября 2021
+2021-09-21 23:08:58,140 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:08:58,162 INFO test [main] 28 октября 2021
+2021-09-21 23:08:58,162 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:08:58,196 INFO test [main] 29 октября 2021
+2021-09-21 23:08:58,197 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:08:58,223 INFO test [main] 29 октября 2021
+2021-09-21 23:08:58,223 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:08:58,242 INFO test [main] 29 октября 2021
+2021-09-21 23:08:58,242 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:08:58,260 INFO test [main] 16 ноября 2021
+2021-09-21 23:08:58,260 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:08:58,277 INFO test [main] 19 ноября 2021
+2021-09-21 23:08:58,286 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:08:58,373 INFO test [main] 17 ноября 2021
+2021-09-21 23:08:58,374 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:08:58,393 INFO test [main] 26 ноября 2021
+2021-09-21 23:08:58,393 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:08:58,419 INFO test [main] 29 ноября 2021
+2021-09-21 23:08:58,420 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:08:58,458 INFO test [main] 16 декабря 2021
+2021-09-21 23:08:58,458 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:08:58,476 INFO test [main] 28 января 2022 года
+2021-09-21 23:08:58,476 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:08:58,609 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:08:58,610 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:08:58,610 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:08:58,610 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:09:00,592 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:09:00,592 INFO test [main] 22 сентября
+2021-09-21 23:09:10,314 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:09:11,780 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:09:11,781 INFO test [main] 28 января
+2021-09-21 23:09:18,297 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:10:00,720 INFO test [main] Старт теста
+2021-09-21 23:10:21,042 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:10:21,487 INFO test [main] C# Developer. Professional
+2021-09-21 23:10:21,582 INFO test [main] C# Developer. Basic
+2021-09-21 23:10:21,593 INFO test [main] Специализация C#
+2021-09-21 23:10:21,702 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:10:21,965 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:10:22,100 INFO test [main] 22 сентября 2021
+2021-09-21 23:10:22,103 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:10:22,128 INFO test [main] 30 сентября 2021
+2021-09-21 23:10:22,129 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:10:22,156 INFO test [main] 28 сентября 2021
+2021-09-21 23:10:22,157 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,179 INFO test [main] 28 сентября 2021
+2021-09-21 23:10:22,180 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,203 INFO test [main] 29 сентября 2021
+2021-09-21 23:10:22,204 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:10:22,229 INFO test [main] 30 сентября 2021
+2021-09-21 23:10:22,230 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:10:22,254 INFO test [main] 29 сентября 2021
+2021-09-21 23:10:22,254 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:10:22,317 INFO test [main] 30 сентября 2021
+2021-09-21 23:10:22,318 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:10:22,338 INFO test [main] 30 сентября 2021
+2021-09-21 23:10:22,338 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:10:22,363 INFO test [main] 30 сентября 2021
+2021-09-21 23:10:22,363 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:10:22,382 INFO test [main] 30 сентября 2021
+2021-09-21 23:10:22,382 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:10:22,466 INFO test [main] 28 сентября 2021
+2021-09-21 23:10:22,467 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,488 INFO test [main] 28 сентября 2021
+2021-09-21 23:10:22,488 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,509 INFO test [main] 28 сентября 2021
+2021-09-21 23:10:22,509 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,528 INFO test [main] 28 сентября 2021
+2021-09-21 23:10:22,529 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,559 INFO test [main] 29 сентября 2021
+2021-09-21 23:10:22,559 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:10:22,581 INFO test [main] 29 сентября 2021
+2021-09-21 23:10:22,581 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:10:22,604 INFO test [main] 30 сентября 2021
+2021-09-21 23:10:22,604 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:10:22,625 INFO test [main] 30 сентября 2021
+2021-09-21 23:10:22,625 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:10:22,647 INFO test [main] 18 октября 2021
+2021-09-21 23:10:22,647 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:10:22,683 INFO test [main] 12 октября 2021
+2021-09-21 23:10:22,683 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:10:22,705 INFO test [main] 26 октября 2021
+2021-09-21 23:10:22,705 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:10:22,731 INFO test [main] 14 октября 2021
+2021-09-21 23:10:22,732 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:10:22,758 INFO test [main] 25 октября 2021
+2021-09-21 23:10:22,758 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:10:22,798 INFO test [main] 25 октября 2021
+2021-09-21 23:10:22,798 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:10:22,822 INFO test [main] 28 октября 2021
+2021-09-21 23:10:22,823 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,846 INFO test [main] 28 октября 2021
+2021-09-21 23:10:22,846 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,869 INFO test [main] 28 октября 2021
+2021-09-21 23:10:22,869 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:10:22,898 INFO test [main] 29 октября 2021
+2021-09-21 23:10:22,899 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:10:22,928 INFO test [main] 29 октября 2021
+2021-09-21 23:10:22,928 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:10:22,948 INFO test [main] 29 октября 2021
+2021-09-21 23:10:22,948 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:10:22,965 INFO test [main] 16 ноября 2021
+2021-09-21 23:10:22,965 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:10:22,982 INFO test [main] 19 ноября 2021
+2021-09-21 23:10:22,982 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:10:23,069 INFO test [main] 17 ноября 2021
+2021-09-21 23:10:23,070 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:10:23,089 INFO test [main] 26 ноября 2021
+2021-09-21 23:10:23,089 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:10:23,106 INFO test [main] 29 ноября 2021
+2021-09-21 23:10:23,107 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:10:23,151 INFO test [main] 16 декабря 2021
+2021-09-21 23:10:23,151 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:10:23,170 INFO test [main] 28 января 2022 года
+2021-09-21 23:10:23,170 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:10:23,302 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:10:23,303 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:10:23,303 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:10:23,303 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:10:25,421 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:10:25,421 INFO test [main] 22 сентября
+2021-09-21 23:10:30,013 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:10:33,045 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:10:33,046 INFO test [main] 28 января
+2021-09-21 23:10:36,751 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:15:01,737 INFO test [main] Старт теста
+2021-09-21 23:15:19,699 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:15:20,544 INFO test [main] C# Developer. Professional
+2021-09-21 23:15:20,655 INFO test [main] C# Developer. Basic
+2021-09-21 23:15:20,670 INFO test [main] Специализация C#
+2021-09-21 23:15:20,806 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:15:21,113 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:15:21,273 INFO test [main] 22 сентября 2021
+2021-09-21 23:15:21,278 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:15:21,309 INFO test [main] 30 сентября 2021
+2021-09-21 23:15:21,309 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:15:21,340 INFO test [main] 28 сентября 2021
+2021-09-21 23:15:21,349 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:15:21,376 INFO test [main] 28 сентября 2021
+2021-09-21 23:15:21,377 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:15:21,402 INFO test [main] 29 сентября 2021
+2021-09-21 23:15:21,404 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:15:21,432 INFO test [main] 30 сентября 2021
+2021-09-21 23:15:21,433 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:15:21,461 INFO test [main] 29 сентября 2021
+2021-09-21 23:15:21,461 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:15:21,488 INFO test [main] 30 сентября 2021
+2021-09-21 23:15:21,490 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:15:21,514 INFO test [main] 30 сентября 2021
+2021-09-21 23:15:21,514 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:15:21,540 INFO test [main] 30 сентября 2021
+2021-09-21 23:15:21,541 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:15:21,565 INFO test [main] 30 сентября 2021
+2021-09-21 23:15:21,566 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:15:21,593 INFO test [main] 28 сентября 2021
+2021-09-21 23:15:21,594 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:15:21,621 INFO test [main] 28 сентября 2021
+2021-09-21 23:15:21,621 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:15:21,647 INFO test [main] 28 сентября 2021
+2021-09-21 23:15:21,648 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:15:21,670 INFO test [main] 28 сентября 2021
+2021-09-21 23:15:21,671 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:15:21,694 INFO test [main] 29 сентября 2021
+2021-09-21 23:15:21,694 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:15:21,719 INFO test [main] 29 сентября 2021
+2021-09-21 23:15:21,719 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:15:21,745 INFO test [main] 30 сентября 2021
+2021-09-21 23:15:21,745 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:15:21,769 INFO test [main] 30 сентября 2021
+2021-09-21 23:15:21,770 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:15:21,797 INFO test [main] 18 октября 2021
+2021-09-21 23:15:21,797 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:15:21,906 INFO test [main] 12 октября 2021
+2021-09-21 23:15:21,906 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:15:21,938 INFO test [main] 26 октября 2021
+2021-09-21 23:15:21,940 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:15:21,974 INFO test [main] 14 октября 2021
+2021-09-21 23:15:21,975 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:15:22,013 INFO test [main] 25 октября 2021
+2021-09-21 23:15:22,014 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:15:22,044 INFO test [main] 25 октября 2021
+2021-09-21 23:15:22,044 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:15:22,069 INFO test [main] 28 октября 2021
+2021-09-21 23:15:22,070 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:15:22,095 INFO test [main] 28 октября 2021
+2021-09-21 23:15:22,095 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:15:22,131 INFO test [main] 28 октября 2021
+2021-09-21 23:15:22,132 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:15:22,152 INFO test [main] 29 октября 2021
+2021-09-21 23:15:22,153 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:15:22,183 INFO test [main] 29 октября 2021
+2021-09-21 23:15:22,183 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:15:22,205 INFO test [main] 29 октября 2021
+2021-09-21 23:15:22,205 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:15:22,239 INFO test [main] 16 ноября 2021
+2021-09-21 23:15:22,240 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:15:22,261 INFO test [main] 19 ноября 2021
+2021-09-21 23:15:22,261 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:15:22,362 INFO test [main] 17 ноября 2021
+2021-09-21 23:15:22,363 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:15:22,384 INFO test [main] 26 ноября 2021
+2021-09-21 23:15:22,385 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:15:22,409 INFO test [main] 29 ноября 2021
+2021-09-21 23:15:22,409 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:15:22,467 INFO test [main] 16 декабря 2021
+2021-09-21 23:15:22,468 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:15:22,488 INFO test [main] 28 января 2022 года
+2021-09-21 23:15:22,489 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:15:22,653 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:15:22,653 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:15:22,653 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:15:22,653 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:15:24,914 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:15:24,914 INFO test [main] 22 сентября
+2021-09-21 23:15:33,843 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:15:37,160 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:15:37,161 INFO test [main] 28 января
+2021-09-21 23:15:42,305 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:34:40,232 INFO test [main] Старт теста
+2021-09-21 23:34:56,193 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:34:56,761 INFO test [main] C# Developer. Professional
+2021-09-21 23:34:56,860 INFO test [main] C# Developer. Basic
+2021-09-21 23:34:56,873 INFO test [main] Специализация C#
+2021-09-21 23:34:56,985 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:34:57,263 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:34:57,413 INFO test [main] 22 сентября 2021
+2021-09-21 23:34:57,416 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:34:57,441 INFO test [main] 30 сентября 2021
+2021-09-21 23:34:57,442 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:34:57,467 INFO test [main] 28 сентября 2021
+2021-09-21 23:34:57,468 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:34:57,492 INFO test [main] 28 сентября 2021
+2021-09-21 23:34:57,493 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:34:57,517 INFO test [main] 29 сентября 2021
+2021-09-21 23:34:57,519 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:34:57,542 INFO test [main] 30 сентября 2021
+2021-09-21 23:34:57,542 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:34:57,567 INFO test [main] 29 сентября 2021
+2021-09-21 23:34:57,567 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:34:57,592 INFO test [main] 30 сентября 2021
+2021-09-21 23:34:57,592 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:34:57,614 INFO test [main] 30 сентября 2021
+2021-09-21 23:34:57,614 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:34:57,637 INFO test [main] 30 сентября 2021
+2021-09-21 23:34:57,638 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:34:57,658 INFO test [main] 30 сентября 2021
+2021-09-21 23:34:57,658 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:34:57,682 INFO test [main] 28 сентября 2021
+2021-09-21 23:34:57,682 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:34:57,705 INFO test [main] 28 сентября 2021
+2021-09-21 23:34:57,705 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:34:57,728 INFO test [main] 28 сентября 2021
+2021-09-21 23:34:57,728 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:34:57,750 INFO test [main] 28 сентября 2021
+2021-09-21 23:34:57,751 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:34:57,774 INFO test [main] 29 сентября 2021
+2021-09-21 23:34:57,774 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:34:57,798 INFO test [main] 29 сентября 2021
+2021-09-21 23:34:57,798 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:34:57,819 INFO test [main] 30 сентября 2021
+2021-09-21 23:34:57,820 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:34:57,913 INFO test [main] 30 сентября 2021
+2021-09-21 23:34:57,913 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:34:57,994 INFO test [main] 18 октября 2021
+2021-09-21 23:34:57,994 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:34:58,019 INFO test [main] 12 октября 2021
+2021-09-21 23:34:58,019 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:34:58,042 INFO test [main] 26 октября 2021
+2021-09-21 23:34:58,042 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:34:58,070 INFO test [main] 14 октября 2021
+2021-09-21 23:34:58,070 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:34:58,106 INFO test [main] 25 октября 2021
+2021-09-21 23:34:58,107 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:34:58,132 INFO test [main] 25 октября 2021
+2021-09-21 23:34:58,133 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:34:58,158 INFO test [main] 28 октября 2021
+2021-09-21 23:34:58,159 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:34:58,183 INFO test [main] 28 октября 2021
+2021-09-21 23:34:58,183 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:34:58,222 INFO test [main] 28 октября 2021
+2021-09-21 23:34:58,222 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:34:58,242 INFO test [main] 29 октября 2021
+2021-09-21 23:34:58,243 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:34:58,268 INFO test [main] 29 октября 2021
+2021-09-21 23:34:58,268 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:34:58,287 INFO test [main] 29 октября 2021
+2021-09-21 23:34:58,287 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:34:58,305 INFO test [main] 16 ноября 2021
+2021-09-21 23:34:58,305 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:34:58,336 INFO test [main] 19 ноября 2021
+2021-09-21 23:34:58,337 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:34:58,418 INFO test [main] 17 ноября 2021
+2021-09-21 23:34:58,419 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:34:58,447 INFO test [main] 26 ноября 2021
+2021-09-21 23:34:58,448 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:34:58,464 INFO test [main] 29 ноября 2021
+2021-09-21 23:34:58,464 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:34:58,504 INFO test [main] 16 декабря 2021
+2021-09-21 23:34:58,504 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:34:58,521 INFO test [main] 28 января 2022 года
+2021-09-21 23:34:58,522 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:34:58,667 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:34:58,680 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:34:58,682 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:34:58,682 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:35:00,838 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:35:00,839 INFO test [main] 22 сентября
+2021-09-21 23:35:07,971 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:35:11,190 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:35:11,192 INFO test [main] 28 января
+2021-09-21 23:35:16,129 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:40:34,427 INFO test [main] Старт теста
+2021-09-21 23:40:49,927 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:40:50,473 INFO test [main] C# Developer. Professional
+2021-09-21 23:40:50,574 INFO test [main] C# Developer. Basic
+2021-09-21 23:40:50,587 INFO test [main] Специализация C#
+2021-09-21 23:40:50,697 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:40:50,967 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:40:51,112 INFO test [main] 22 сентября 2021
+2021-09-21 23:40:51,117 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:40:51,142 INFO test [main] 30 сентября 2021
+2021-09-21 23:40:51,143 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:40:51,168 INFO test [main] 28 сентября 2021
+2021-09-21 23:40:51,169 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,192 INFO test [main] 28 сентября 2021
+2021-09-21 23:40:51,193 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,216 INFO test [main] 29 сентября 2021
+2021-09-21 23:40:51,218 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:40:51,243 INFO test [main] 30 сентября 2021
+2021-09-21 23:40:51,244 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:40:51,269 INFO test [main] 29 сентября 2021
+2021-09-21 23:40:51,269 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:40:51,291 INFO test [main] 30 сентября 2021
+2021-09-21 23:40:51,292 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:40:51,312 INFO test [main] 30 сентября 2021
+2021-09-21 23:40:51,313 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:40:51,339 INFO test [main] 30 сентября 2021
+2021-09-21 23:40:51,339 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:40:51,359 INFO test [main] 30 сентября 2021
+2021-09-21 23:40:51,359 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:40:51,383 INFO test [main] 28 сентября 2021
+2021-09-21 23:40:51,383 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,404 INFO test [main] 28 сентября 2021
+2021-09-21 23:40:51,405 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,426 INFO test [main] 28 сентября 2021
+2021-09-21 23:40:51,426 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,449 INFO test [main] 28 сентября 2021
+2021-09-21 23:40:51,450 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,472 INFO test [main] 29 сентября 2021
+2021-09-21 23:40:51,472 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:40:51,498 INFO test [main] 29 сентября 2021
+2021-09-21 23:40:51,499 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:40:51,520 INFO test [main] 30 сентября 2021
+2021-09-21 23:40:51,520 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:40:51,539 INFO test [main] 30 сентября 2021
+2021-09-21 23:40:51,540 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:40:51,646 INFO test [main] 18 октября 2021
+2021-09-21 23:40:51,647 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:40:51,672 INFO test [main] 12 октября 2021
+2021-09-21 23:40:51,672 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:40:51,705 INFO test [main] 26 октября 2021
+2021-09-21 23:40:51,705 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:40:51,734 INFO test [main] 14 октября 2021
+2021-09-21 23:40:51,735 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:40:51,762 INFO test [main] 25 октября 2021
+2021-09-21 23:40:51,763 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:40:51,786 INFO test [main] 25 октября 2021
+2021-09-21 23:40:51,786 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:40:51,815 INFO test [main] 28 октября 2021
+2021-09-21 23:40:51,816 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,837 INFO test [main] 28 октября 2021
+2021-09-21 23:40:51,838 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,860 INFO test [main] 28 октября 2021
+2021-09-21 23:40:51,860 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:40:51,881 INFO test [main] 29 октября 2021
+2021-09-21 23:40:51,882 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:40:51,920 INFO test [main] 29 октября 2021
+2021-09-21 23:40:51,920 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:40:51,940 INFO test [main] 29 октября 2021
+2021-09-21 23:40:51,941 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:40:51,958 INFO test [main] 16 ноября 2021
+2021-09-21 23:40:51,958 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:40:51,974 INFO test [main] 19 ноября 2021
+2021-09-21 23:40:51,975 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:40:52,069 INFO test [main] 17 ноября 2021
+2021-09-21 23:40:52,069 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:40:52,088 INFO test [main] 26 ноября 2021
+2021-09-21 23:40:52,089 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:40:52,106 INFO test [main] 29 ноября 2021
+2021-09-21 23:40:52,107 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:40:52,155 INFO test [main] 16 декабря 2021
+2021-09-21 23:40:52,156 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:40:52,175 INFO test [main] 28 января 2022 года
+2021-09-21 23:40:52,175 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:40:52,319 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:40:52,320 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:40:52,320 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:40:52,320 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:40:54,277 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:40:54,278 INFO test [main] 22 сентября
+2021-09-21 23:41:01,097 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:41:03,693 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:41:03,694 INFO test [main] 28 января
+2021-09-21 23:41:08,597 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:43:06,342 INFO test [main] Старт теста
+2021-09-21 23:43:22,359 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:43:22,963 INFO test [main] C# Developer. Professional
+2021-09-21 23:43:23,059 INFO test [main] C# Developer. Basic
+2021-09-21 23:43:23,072 INFO test [main] Специализация C#
+2021-09-21 23:43:23,183 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:43:23,451 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:43:23,594 INFO test [main] 22 сентября 2021
+2021-09-21 23:43:23,596 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:43:23,623 INFO test [main] 30 сентября 2021
+2021-09-21 23:43:23,623 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:43:23,649 INFO test [main] 28 сентября 2021
+2021-09-21 23:43:23,650 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:43:23,673 INFO test [main] 28 сентября 2021
+2021-09-21 23:43:23,674 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:43:23,695 INFO test [main] 29 сентября 2021
+2021-09-21 23:43:23,697 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:43:23,720 INFO test [main] 30 сентября 2021
+2021-09-21 23:43:23,721 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:43:23,748 INFO test [main] 29 сентября 2021
+2021-09-21 23:43:23,748 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:43:23,770 INFO test [main] 30 сентября 2021
+2021-09-21 23:43:23,771 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:43:23,790 INFO test [main] 30 сентября 2021
+2021-09-21 23:43:23,790 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:43:23,815 INFO test [main] 30 сентября 2021
+2021-09-21 23:43:23,815 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:43:23,834 INFO test [main] 30 сентября 2021
+2021-09-21 23:43:23,834 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:43:23,858 INFO test [main] 28 сентября 2021
+2021-09-21 23:43:23,859 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:43:23,882 INFO test [main] 28 сентября 2021
+2021-09-21 23:43:23,882 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:43:23,903 INFO test [main] 28 сентября 2021
+2021-09-21 23:43:23,904 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:43:23,925 INFO test [main] 28 сентября 2021
+2021-09-21 23:43:23,925 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:43:23,947 INFO test [main] 29 сентября 2021
+2021-09-21 23:43:23,948 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:43:23,979 INFO test [main] 29 сентября 2021
+2021-09-21 23:43:23,979 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:43:24,001 INFO test [main] 30 сентября 2021
+2021-09-21 23:43:24,001 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:43:24,020 INFO test [main] 30 сентября 2021
+2021-09-21 23:43:24,021 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:43:24,041 INFO test [main] 18 октября 2021
+2021-09-21 23:43:24,041 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:43:24,065 INFO test [main] 12 октября 2021
+2021-09-21 23:43:24,065 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:43:24,143 INFO test [main] 26 октября 2021
+2021-09-21 23:43:24,143 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:43:24,187 INFO test [main] 14 октября 2021
+2021-09-21 23:43:24,187 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:43:24,220 INFO test [main] 25 октября 2021
+2021-09-21 23:43:24,220 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:43:24,246 INFO test [main] 25 октября 2021
+2021-09-21 23:43:24,247 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:43:24,269 INFO test [main] 28 октября 2021
+2021-09-21 23:43:24,270 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:43:24,292 INFO test [main] 28 октября 2021
+2021-09-21 23:43:24,292 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:43:24,324 INFO test [main] 28 октября 2021
+2021-09-21 23:43:24,324 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:43:24,344 INFO test [main] 29 октября 2021
+2021-09-21 23:43:24,345 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:43:24,373 INFO test [main] 29 октября 2021
+2021-09-21 23:43:24,374 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:43:24,396 INFO test [main] 29 октября 2021
+2021-09-21 23:43:24,397 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:43:24,424 INFO test [main] 16 ноября 2021
+2021-09-21 23:43:24,424 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:43:24,440 INFO test [main] 19 ноября 2021
+2021-09-21 23:43:24,441 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:43:24,536 INFO test [main] 17 ноября 2021
+2021-09-21 23:43:24,537 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:43:24,557 INFO test [main] 26 ноября 2021
+2021-09-21 23:43:24,557 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:43:24,575 INFO test [main] 29 ноября 2021
+2021-09-21 23:43:24,576 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:43:24,614 INFO test [main] 16 декабря 2021
+2021-09-21 23:43:24,615 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:43:24,644 INFO test [main] 28 января 2022 года
+2021-09-21 23:43:24,645 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:43:24,791 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:43:24,791 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:43:24,791 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:43:24,791 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:43:26,368 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:43:26,368 INFO test [main] 22 сентября
+2021-09-21 23:43:33,702 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:43:36,825 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:43:36,826 INFO test [main] 28 января
+2021-09-21 23:43:41,870 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:47:04,894 INFO test [main] Старт теста
+2021-09-21 23:47:21,835 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:47:22,365 INFO test [main] C# Developer. Professional
+2021-09-21 23:47:22,462 INFO test [main] C# Developer. Basic
+2021-09-21 23:47:22,475 INFO test [main] Специализация C#
+2021-09-21 23:47:22,588 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:47:22,860 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:47:22,999 INFO test [main] 22 сентября 2021
+2021-09-21 23:47:23,001 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:47:23,028 INFO test [main] 30 сентября 2021
+2021-09-21 23:47:23,029 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:47:23,054 INFO test [main] 28 сентября 2021
+2021-09-21 23:47:23,055 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,079 INFO test [main] 28 сентября 2021
+2021-09-21 23:47:23,079 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,103 INFO test [main] 29 сентября 2021
+2021-09-21 23:47:23,104 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:47:23,128 INFO test [main] 30 сентября 2021
+2021-09-21 23:47:23,129 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:47:23,154 INFO test [main] 29 сентября 2021
+2021-09-21 23:47:23,155 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:47:23,178 INFO test [main] 30 сентября 2021
+2021-09-21 23:47:23,179 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:47:23,199 INFO test [main] 30 сентября 2021
+2021-09-21 23:47:23,199 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:47:23,223 INFO test [main] 30 сентября 2021
+2021-09-21 23:47:23,223 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:47:23,243 INFO test [main] 30 сентября 2021
+2021-09-21 23:47:23,243 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:47:23,265 INFO test [main] 28 сентября 2021
+2021-09-21 23:47:23,266 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,286 INFO test [main] 28 сентября 2021
+2021-09-21 23:47:23,286 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,306 INFO test [main] 28 сентября 2021
+2021-09-21 23:47:23,306 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,406 INFO test [main] 28 сентября 2021
+2021-09-21 23:47:23,407 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,485 INFO test [main] 29 сентября 2021
+2021-09-21 23:47:23,486 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:47:23,508 INFO test [main] 29 сентября 2021
+2021-09-21 23:47:23,509 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:47:23,530 INFO test [main] 30 сентября 2021
+2021-09-21 23:47:23,531 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:47:23,552 INFO test [main] 30 сентября 2021
+2021-09-21 23:47:23,552 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:47:23,574 INFO test [main] 18 октября 2021
+2021-09-21 23:47:23,574 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:47:23,611 INFO test [main] 12 октября 2021
+2021-09-21 23:47:23,612 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:47:23,634 INFO test [main] 26 октября 2021
+2021-09-21 23:47:23,634 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:47:23,663 INFO test [main] 14 октября 2021
+2021-09-21 23:47:23,663 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:47:23,689 INFO test [main] 25 октября 2021
+2021-09-21 23:47:23,689 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:47:23,722 INFO test [main] 25 октября 2021
+2021-09-21 23:47:23,722 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:47:23,746 INFO test [main] 28 октября 2021
+2021-09-21 23:47:23,747 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,769 INFO test [main] 28 октября 2021
+2021-09-21 23:47:23,770 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,794 INFO test [main] 28 октября 2021
+2021-09-21 23:47:23,794 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:47:23,836 INFO test [main] 29 октября 2021
+2021-09-21 23:47:23,838 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:47:23,866 INFO test [main] 29 октября 2021
+2021-09-21 23:47:23,866 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:47:23,885 INFO test [main] 29 октября 2021
+2021-09-21 23:47:23,885 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:47:23,902 INFO test [main] 16 ноября 2021
+2021-09-21 23:47:23,902 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:47:23,918 INFO test [main] 19 ноября 2021
+2021-09-21 23:47:23,918 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:47:24,007 INFO test [main] 17 ноября 2021
+2021-09-21 23:47:24,008 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:47:24,027 INFO test [main] 26 ноября 2021
+2021-09-21 23:47:24,027 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:47:24,053 INFO test [main] 29 ноября 2021
+2021-09-21 23:47:24,053 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:47:24,090 INFO test [main] 16 декабря 2021
+2021-09-21 23:47:24,090 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:47:24,110 INFO test [main] 28 января 2022 года
+2021-09-21 23:47:24,111 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:47:24,250 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:47:24,250 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:47:24,250 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:47:24,250 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:47:26,246 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:47:26,246 INFO test [main] 22 сентября
+2021-09-21 23:47:35,780 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:47:37,867 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:47:37,867 INFO test [main] 28 января
+2021-09-21 23:47:44,311 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:49:36,874 INFO test [main] Старт теста
+2021-09-21 23:49:52,590 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:49:53,149 INFO test [main] C# Developer. Professional
+2021-09-21 23:49:53,252 INFO test [main] C# Developer. Basic
+2021-09-21 23:49:53,264 INFO test [main] Специализация C#
+2021-09-21 23:49:53,375 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:49:53,643 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:49:53,789 INFO test [main] 22 сентября 2021
+2021-09-21 23:49:53,791 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:49:53,818 INFO test [main] 30 сентября 2021
+2021-09-21 23:49:53,819 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:49:53,844 INFO test [main] 28 сентября 2021
+2021-09-21 23:49:53,846 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:49:53,868 INFO test [main] 28 сентября 2021
+2021-09-21 23:49:53,869 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:49:53,892 INFO test [main] 29 сентября 2021
+2021-09-21 23:49:53,893 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:49:53,917 INFO test [main] 30 сентября 2021
+2021-09-21 23:49:53,918 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:49:53,943 INFO test [main] 29 сентября 2021
+2021-09-21 23:49:53,943 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:49:53,964 INFO test [main] 30 сентября 2021
+2021-09-21 23:49:53,965 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:49:53,985 INFO test [main] 30 сентября 2021
+2021-09-21 23:49:53,985 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:49:54,010 INFO test [main] 30 сентября 2021
+2021-09-21 23:49:54,010 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:49:54,030 INFO test [main] 30 сентября 2021
+2021-09-21 23:49:54,031 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:49:54,053 INFO test [main] 28 сентября 2021
+2021-09-21 23:49:54,054 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:49:54,076 INFO test [main] 28 сентября 2021
+2021-09-21 23:49:54,076 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:49:54,098 INFO test [main] 28 сентября 2021
+2021-09-21 23:49:54,098 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:49:54,120 INFO test [main] 28 сентября 2021
+2021-09-21 23:49:54,120 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:49:54,143 INFO test [main] 29 сентября 2021
+2021-09-21 23:49:54,143 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:49:54,167 INFO test [main] 29 сентября 2021
+2021-09-21 23:49:54,168 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:49:54,188 INFO test [main] 30 сентября 2021
+2021-09-21 23:49:54,188 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:49:54,208 INFO test [main] 30 сентября 2021
+2021-09-21 23:49:54,208 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:49:54,230 INFO test [main] 18 октября 2021
+2021-09-21 23:49:54,230 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:49:54,254 INFO test [main] 12 октября 2021
+2021-09-21 23:49:54,254 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:49:54,276 INFO test [main] 26 октября 2021
+2021-09-21 23:49:54,276 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:49:54,323 INFO test [main] 14 октября 2021
+2021-09-21 23:49:54,324 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:49:54,387 INFO test [main] 25 октября 2021
+2021-09-21 23:49:54,387 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:49:54,463 INFO test [main] 25 октября 2021
+2021-09-21 23:49:54,463 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:49:54,487 INFO test [main] 28 октября 2021
+2021-09-21 23:49:54,488 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:49:54,519 INFO test [main] 28 октября 2021
+2021-09-21 23:49:54,520 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:49:54,542 INFO test [main] 28 октября 2021
+2021-09-21 23:49:54,543 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:49:54,561 INFO test [main] 29 октября 2021
+2021-09-21 23:49:54,563 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:49:54,590 INFO test [main] 29 октября 2021
+2021-09-21 23:49:54,590 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:49:54,611 INFO test [main] 29 октября 2021
+2021-09-21 23:49:54,611 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:49:54,638 INFO test [main] 16 ноября 2021
+2021-09-21 23:49:54,638 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:49:54,653 INFO test [main] 19 ноября 2021
+2021-09-21 23:49:54,654 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:49:54,748 INFO test [main] 17 ноября 2021
+2021-09-21 23:49:54,749 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:49:54,768 INFO test [main] 26 ноября 2021
+2021-09-21 23:49:54,768 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:49:54,786 INFO test [main] 29 ноября 2021
+2021-09-21 23:49:54,786 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:49:54,823 INFO test [main] 16 декабря 2021
+2021-09-21 23:49:54,824 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:49:54,840 INFO test [main] 28 января 2022 года
+2021-09-21 23:49:54,840 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:49:54,987 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:49:54,987 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:49:54,987 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:49:54,987 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:49:57,232 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:49:57,232 INFO test [main] 22 сентября
+2021-09-21 23:50:05,512 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:50:08,477 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:50:08,478 INFO test [main] 28 января
+2021-09-21 23:50:15,595 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:52:17,954 INFO test [main] Старт теста
+2021-09-21 23:52:34,585 INFO test [main] Количество курсов на странице всего: 64
+2021-09-21 23:52:35,133 INFO test [main] C# Developer. Professional
+2021-09-21 23:52:35,230 INFO test [main] C# Developer. Basic
+2021-09-21 23:52:35,242 INFO test [main] Специализация C#
+2021-09-21 23:52:35,354 INFO test [main] C# ASP.NET Core разработчик
+2021-09-21 23:52:35,625 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-21 23:52:35,768 INFO test [main] 22 сентября 2021
+2021-09-21 23:52:35,772 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:52:35,797 INFO test [main] 30 сентября 2021
+2021-09-21 23:52:35,798 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:52:35,824 INFO test [main] 28 сентября 2021
+2021-09-21 23:52:35,825 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:52:35,847 INFO test [main] 28 сентября 2021
+2021-09-21 23:52:35,848 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:52:35,870 INFO test [main] 29 сентября 2021
+2021-09-21 23:52:35,871 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:52:35,894 INFO test [main] 30 сентября 2021
+2021-09-21 23:52:35,896 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:52:35,921 INFO test [main] 29 сентября 2021
+2021-09-21 23:52:35,922 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:52:35,943 INFO test [main] 30 сентября 2021
+2021-09-21 23:52:35,944 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:52:35,964 INFO test [main] 30 сентября 2021
+2021-09-21 23:52:35,964 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:52:35,986 INFO test [main] 30 сентября 2021
+2021-09-21 23:52:35,986 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:52:36,008 INFO test [main] 30 сентября 2021
+2021-09-21 23:52:36,008 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:52:36,031 INFO test [main] 28 сентября 2021
+2021-09-21 23:52:36,031 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:52:36,052 INFO test [main] 28 сентября 2021
+2021-09-21 23:52:36,053 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:52:36,076 INFO test [main] 28 сентября 2021
+2021-09-21 23:52:36,076 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:52:36,098 INFO test [main] 28 сентября 2021
+2021-09-21 23:52:36,098 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-21 23:52:36,119 INFO test [main] 29 сентября 2021
+2021-09-21 23:52:36,120 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:52:36,143 INFO test [main] 29 сентября 2021
+2021-09-21 23:52:36,143 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-21 23:52:36,166 INFO test [main] 30 сентября 2021
+2021-09-21 23:52:36,166 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:52:36,187 INFO test [main] 30 сентября 2021
+2021-09-21 23:52:36,187 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-21 23:52:36,284 INFO test [main] 18 октября 2021
+2021-09-21 23:52:36,285 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-21 23:52:36,321 INFO test [main] 12 октября 2021
+2021-09-21 23:52:36,321 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-21 23:52:36,345 INFO test [main] 26 октября 2021
+2021-09-21 23:52:36,346 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-21 23:52:36,376 INFO test [main] 14 октября 2021
+2021-09-21 23:52:36,376 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-21 23:52:36,403 INFO test [main] 25 октября 2021
+2021-09-21 23:52:36,403 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:52:36,437 INFO test [main] 25 октября 2021
+2021-09-21 23:52:36,437 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-21 23:52:36,461 INFO test [main] 28 октября 2021
+2021-09-21 23:52:36,462 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:52:36,484 INFO test [main] 28 октября 2021
+2021-09-21 23:52:36,485 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:52:36,507 INFO test [main] 28 октября 2021
+2021-09-21 23:52:36,507 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-21 23:52:36,537 INFO test [main] 29 октября 2021
+2021-09-21 23:52:36,539 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:52:36,567 INFO test [main] 29 октября 2021
+2021-09-21 23:52:36,567 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:52:36,587 INFO test [main] 29 октября 2021
+2021-09-21 23:52:36,588 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-21 23:52:36,605 INFO test [main] 16 ноября 2021
+2021-09-21 23:52:36,605 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-21 23:52:36,621 INFO test [main] 19 ноября 2021
+2021-09-21 23:52:36,622 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-21 23:52:36,711 INFO test [main] 17 ноября 2021
+2021-09-21 23:52:36,711 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-21 23:52:36,730 INFO test [main] 26 ноября 2021
+2021-09-21 23:52:36,731 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-21 23:52:36,757 INFO test [main] 29 ноября 2021
+2021-09-21 23:52:36,758 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-21 23:52:36,797 INFO test [main] 16 декабря 2021
+2021-09-21 23:52:36,798 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-21 23:52:36,816 INFO test [main] 28 января 2022 года
+2021-09-21 23:52:36,816 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:52:36,954 INFO test [main] Самая ранняя дата начала курсов
+2021-09-21 23:52:36,955 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:52:36,955 INFO test [main] Самая поздняя дата начала курсов
+2021-09-21 23:52:36,955 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:52:38,739 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-21 23:52:38,739 INFO test [main] 22 сентября
+2021-09-21 23:52:47,998 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-21 23:52:49,916 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-21 23:52:49,916 INFO test [main] 28 января
+2021-09-21 23:52:56,482 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-21 23:59:43,560 INFO test [main] Старт теста
+2021-09-22 00:00:08,889 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:00:09,402 INFO test [main] C# Developer. Professional
+2021-09-22 00:00:09,499 INFO test [main] C# Developer. Basic
+2021-09-22 00:00:09,511 INFO test [main] Специализация C#
+2021-09-22 00:00:09,623 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:00:09,890 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:00:10,044 INFO test [main] 22 сентября 2021
+2021-09-22 00:00:10,047 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:00:10,077 INFO test [main] 30 сентября 2021
+2021-09-22 00:00:10,077 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:00:10,115 INFO test [main] 28 сентября 2021
+2021-09-22 00:00:10,116 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,140 INFO test [main] 28 сентября 2021
+2021-09-22 00:00:10,147 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,176 INFO test [main] 29 сентября 2021
+2021-09-22 00:00:10,177 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:00:10,200 INFO test [main] 30 сентября 2021
+2021-09-22 00:00:10,201 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:00:10,225 INFO test [main] 29 сентября 2021
+2021-09-22 00:00:10,226 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:00:10,249 INFO test [main] 30 сентября 2021
+2021-09-22 00:00:10,249 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:00:10,269 INFO test [main] 30 сентября 2021
+2021-09-22 00:00:10,269 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:00:10,292 INFO test [main] 30 сентября 2021
+2021-09-22 00:00:10,292 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:00:10,313 INFO test [main] 30 сентября 2021
+2021-09-22 00:00:10,313 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:00:10,338 INFO test [main] 28 сентября 2021
+2021-09-22 00:00:10,339 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,360 INFO test [main] 28 сентября 2021
+2021-09-22 00:00:10,360 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,383 INFO test [main] 28 сентября 2021
+2021-09-22 00:00:10,383 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,404 INFO test [main] 28 сентября 2021
+2021-09-22 00:00:10,405 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,428 INFO test [main] 29 сентября 2021
+2021-09-22 00:00:10,429 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:00:10,455 INFO test [main] 29 сентября 2021
+2021-09-22 00:00:10,455 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:00:10,499 INFO test [main] 30 сентября 2021
+2021-09-22 00:00:10,499 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:00:10,520 INFO test [main] 30 сентября 2021
+2021-09-22 00:00:10,520 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:00:10,541 INFO test [main] 18 октября 2021
+2021-09-22 00:00:10,542 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:00:10,567 INFO test [main] 12 октября 2021
+2021-09-22 00:00:10,568 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:00:10,669 INFO test [main] 26 октября 2021
+2021-09-22 00:00:10,669 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:00:10,723 INFO test [main] 14 октября 2021
+2021-09-22 00:00:10,723 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:00:10,748 INFO test [main] 25 октября 2021
+2021-09-22 00:00:10,748 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:00:10,777 INFO test [main] 25 октября 2021
+2021-09-22 00:00:10,777 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:00:10,814 INFO test [main] 28 октября 2021
+2021-09-22 00:00:10,814 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,835 INFO test [main] 28 октября 2021
+2021-09-22 00:00:10,835 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,858 INFO test [main] 28 октября 2021
+2021-09-22 00:00:10,858 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:00:10,878 INFO test [main] 29 октября 2021
+2021-09-22 00:00:10,879 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:00:10,905 INFO test [main] 29 октября 2021
+2021-09-22 00:00:10,905 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:00:10,941 INFO test [main] 29 октября 2021
+2021-09-22 00:00:10,941 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:00:10,958 INFO test [main] 16 ноября 2021
+2021-09-22 00:00:10,959 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:00:10,976 INFO test [main] 19 ноября 2021
+2021-09-22 00:00:10,976 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:00:11,067 INFO test [main] 17 ноября 2021
+2021-09-22 00:00:11,067 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:00:11,085 INFO test [main] 26 ноября 2021
+2021-09-22 00:00:11,085 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:00:11,101 INFO test [main] 29 ноября 2021
+2021-09-22 00:00:11,101 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:00:11,146 INFO test [main] 16 декабря 2021
+2021-09-22 00:00:11,146 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:00:11,166 INFO test [main] 28 января 2022 года
+2021-09-22 00:00:11,166 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:00:11,305 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:00:11,306 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:00:11,306 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:00:11,306 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:00:19,375 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:00:19,376 INFO test [main] 22 сентября
+2021-09-22 00:00:28,557 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:00:30,671 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:00:30,672 INFO test [main] 28 января
+2021-09-22 00:00:37,377 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:01:44,513 INFO test [main] Старт теста
+2021-09-22 00:02:00,344 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:02:00,883 INFO test [main] C# Developer. Professional
+2021-09-22 00:02:00,977 INFO test [main] C# Developer. Basic
+2021-09-22 00:02:00,988 INFO test [main] Специализация C#
+2021-09-22 00:02:01,092 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:02:01,349 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:02:01,458 INFO test [main] 22 сентября 2021
+2021-09-22 00:02:01,461 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:02:01,486 INFO test [main] 30 сентября 2021
+2021-09-22 00:02:01,486 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:02:01,511 INFO test [main] 28 сентября 2021
+2021-09-22 00:02:01,512 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:02:01,533 INFO test [main] 28 сентября 2021
+2021-09-22 00:02:01,533 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:02:01,554 INFO test [main] 29 сентября 2021
+2021-09-22 00:02:01,555 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:02:01,578 INFO test [main] 30 сентября 2021
+2021-09-22 00:02:01,578 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:02:01,603 INFO test [main] 29 сентября 2021
+2021-09-22 00:02:01,603 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:02:01,625 INFO test [main] 30 сентября 2021
+2021-09-22 00:02:01,626 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:02:01,645 INFO test [main] 30 сентября 2021
+2021-09-22 00:02:01,645 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:02:01,667 INFO test [main] 30 сентября 2021
+2021-09-22 00:02:01,667 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:02:01,686 INFO test [main] 30 сентября 2021
+2021-09-22 00:02:01,686 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:02:01,710 INFO test [main] 28 сентября 2021
+2021-09-22 00:02:01,710 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:02:01,730 INFO test [main] 28 сентября 2021
+2021-09-22 00:02:01,730 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:02:01,749 INFO test [main] 28 сентября 2021
+2021-09-22 00:02:01,750 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:02:01,769 INFO test [main] 28 сентября 2021
+2021-09-22 00:02:01,770 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:02:01,789 INFO test [main] 29 сентября 2021
+2021-09-22 00:02:01,789 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:02:01,810 INFO test [main] 29 сентября 2021
+2021-09-22 00:02:01,810 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:02:01,830 INFO test [main] 30 сентября 2021
+2021-09-22 00:02:01,831 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:02:01,850 INFO test [main] 30 сентября 2021
+2021-09-22 00:02:01,851 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:02:01,871 INFO test [main] 18 октября 2021
+2021-09-22 00:02:01,871 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:02:01,895 INFO test [main] 12 октября 2021
+2021-09-22 00:02:01,895 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:02:01,916 INFO test [main] 26 октября 2021
+2021-09-22 00:02:01,916 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:02:01,944 INFO test [main] 14 октября 2021
+2021-09-22 00:02:01,945 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:02:01,970 INFO test [main] 25 октября 2021
+2021-09-22 00:02:01,970 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:02:01,994 INFO test [main] 25 октября 2021
+2021-09-22 00:02:01,994 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:02:02,019 INFO test [main] 28 октября 2021
+2021-09-22 00:02:02,020 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:02:02,044 INFO test [main] 28 октября 2021
+2021-09-22 00:02:02,044 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:02:02,197 INFO test [main] 28 октября 2021
+2021-09-22 00:02:02,197 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:02:02,216 INFO test [main] 29 октября 2021
+2021-09-22 00:02:02,217 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:02:02,263 INFO test [main] 29 октября 2021
+2021-09-22 00:02:02,263 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:02:02,285 INFO test [main] 29 октября 2021
+2021-09-22 00:02:02,285 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:02:02,302 INFO test [main] 16 ноября 2021
+2021-09-22 00:02:02,302 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:02:02,318 INFO test [main] 19 ноября 2021
+2021-09-22 00:02:02,318 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:02:02,403 INFO test [main] 17 ноября 2021
+2021-09-22 00:02:02,403 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:02:02,423 INFO test [main] 26 ноября 2021
+2021-09-22 00:02:02,424 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:02:02,441 INFO test [main] 29 ноября 2021
+2021-09-22 00:02:02,442 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:02:02,491 INFO test [main] 16 декабря 2021
+2021-09-22 00:02:02,491 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:02:02,510 INFO test [main] 28 января 2022 года
+2021-09-22 00:02:02,511 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:02:02,655 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:02:02,655 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:02:02,655 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:02:02,656 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:02:04,277 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:02:04,278 INFO test [main] 22 сентября
+2021-09-22 00:02:13,948 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:02:15,766 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:02:15,767 INFO test [main] 28 января
+2021-09-22 00:02:20,786 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:08:05,834 INFO test [main] Старт теста
+2021-09-22 00:08:22,402 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:08:22,949 INFO test [main] C# Developer. Professional
+2021-09-22 00:08:23,049 INFO test [main] C# Developer. Basic
+2021-09-22 00:08:23,060 INFO test [main] Специализация C#
+2021-09-22 00:08:23,173 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:08:23,444 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:08:23,587 INFO test [main] 22 сентября 2021
+2021-09-22 00:08:23,591 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:08:23,617 INFO test [main] 30 сентября 2021
+2021-09-22 00:08:23,617 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:08:23,643 INFO test [main] 28 сентября 2021
+2021-09-22 00:08:23,644 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:08:23,667 INFO test [main] 28 сентября 2021
+2021-09-22 00:08:23,667 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:08:23,691 INFO test [main] 29 сентября 2021
+2021-09-22 00:08:23,692 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:08:23,716 INFO test [main] 30 сентября 2021
+2021-09-22 00:08:23,718 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:08:23,742 INFO test [main] 29 сентября 2021
+2021-09-22 00:08:23,742 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:08:23,765 INFO test [main] 30 сентября 2021
+2021-09-22 00:08:23,765 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:08:23,785 INFO test [main] 30 сентября 2021
+2021-09-22 00:08:23,785 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:08:23,809 INFO test [main] 30 сентября 2021
+2021-09-22 00:08:23,810 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:08:23,830 INFO test [main] 30 сентября 2021
+2021-09-22 00:08:23,830 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:08:23,852 INFO test [main] 28 сентября 2021
+2021-09-22 00:08:23,853 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:08:23,874 INFO test [main] 28 сентября 2021
+2021-09-22 00:08:23,874 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:08:23,895 INFO test [main] 28 сентября 2021
+2021-09-22 00:08:23,896 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:08:23,917 INFO test [main] 28 сентября 2021
+2021-09-22 00:08:23,917 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:08:23,939 INFO test [main] 29 сентября 2021
+2021-09-22 00:08:23,940 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:08:23,963 INFO test [main] 29 сентября 2021
+2021-09-22 00:08:23,963 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:08:23,986 INFO test [main] 30 сентября 2021
+2021-09-22 00:08:23,986 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:08:24,006 INFO test [main] 30 сентября 2021
+2021-09-22 00:08:24,007 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:08:24,028 INFO test [main] 18 октября 2021
+2021-09-22 00:08:24,028 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:08:24,141 INFO test [main] 12 октября 2021
+2021-09-22 00:08:24,142 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:08:24,219 INFO test [main] 26 октября 2021
+2021-09-22 00:08:24,220 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:08:24,245 INFO test [main] 14 октября 2021
+2021-09-22 00:08:24,246 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:08:24,274 INFO test [main] 25 октября 2021
+2021-09-22 00:08:24,275 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:08:24,299 INFO test [main] 25 октября 2021
+2021-09-22 00:08:24,300 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:08:24,331 INFO test [main] 28 октября 2021
+2021-09-22 00:08:24,332 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:08:24,354 INFO test [main] 28 октября 2021
+2021-09-22 00:08:24,355 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:08:24,377 INFO test [main] 28 октября 2021
+2021-09-22 00:08:24,377 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:08:24,396 INFO test [main] 29 октября 2021
+2021-09-22 00:08:24,398 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:08:24,437 INFO test [main] 29 октября 2021
+2021-09-22 00:08:24,438 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:08:24,458 INFO test [main] 29 октября 2021
+2021-09-22 00:08:24,459 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:08:24,477 INFO test [main] 16 ноября 2021
+2021-09-22 00:08:24,477 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:08:24,491 INFO test [main] 19 ноября 2021
+2021-09-22 00:08:24,492 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:08:24,582 INFO test [main] 17 ноября 2021
+2021-09-22 00:08:24,583 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:08:24,602 INFO test [main] 26 ноября 2021
+2021-09-22 00:08:24,602 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:08:24,620 INFO test [main] 29 ноября 2021
+2021-09-22 00:08:24,621 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:08:24,669 INFO test [main] 16 декабря 2021
+2021-09-22 00:08:24,669 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:08:24,688 INFO test [main] 28 января 2022 года
+2021-09-22 00:08:24,688 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:08:24,827 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:08:24,827 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:08:24,827 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:08:24,828 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:08:27,046 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:08:27,046 INFO test [main] 22 сентября
+2021-09-22 00:08:35,987 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:08:38,582 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:08:38,583 INFO test [main] 28 января
+2021-09-22 00:08:43,391 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:09:02,244 INFO test [main] Старт теста
+2021-09-22 00:09:17,746 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:09:18,269 INFO test [main] C# Developer. Professional
+2021-09-22 00:09:18,366 INFO test [main] C# Developer. Basic
+2021-09-22 00:09:18,378 INFO test [main] Специализация C#
+2021-09-22 00:09:18,488 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:09:18,755 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:09:18,896 INFO test [main] 22 сентября 2021
+2021-09-22 00:09:18,898 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:09:18,926 INFO test [main] 30 сентября 2021
+2021-09-22 00:09:18,927 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:09:18,952 INFO test [main] 28 сентября 2021
+2021-09-22 00:09:18,953 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:09:18,980 INFO test [main] 28 сентября 2021
+2021-09-22 00:09:18,981 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:09:19,003 INFO test [main] 29 сентября 2021
+2021-09-22 00:09:19,004 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:09:19,028 INFO test [main] 30 сентября 2021
+2021-09-22 00:09:19,030 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:09:19,058 INFO test [main] 29 сентября 2021
+2021-09-22 00:09:19,058 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:09:19,079 INFO test [main] 30 сентября 2021
+2021-09-22 00:09:19,080 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:09:19,100 INFO test [main] 30 сентября 2021
+2021-09-22 00:09:19,100 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:09:19,125 INFO test [main] 30 сентября 2021
+2021-09-22 00:09:19,125 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:09:19,145 INFO test [main] 30 сентября 2021
+2021-09-22 00:09:19,145 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:09:19,169 INFO test [main] 28 сентября 2021
+2021-09-22 00:09:19,169 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:09:19,191 INFO test [main] 28 сентября 2021
+2021-09-22 00:09:19,191 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:09:19,212 INFO test [main] 28 сентября 2021
+2021-09-22 00:09:19,212 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:09:19,233 INFO test [main] 28 сентября 2021
+2021-09-22 00:09:19,233 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:09:19,254 INFO test [main] 29 сентября 2021
+2021-09-22 00:09:19,255 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:09:19,279 INFO test [main] 29 сентября 2021
+2021-09-22 00:09:19,280 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:09:19,301 INFO test [main] 30 сентября 2021
+2021-09-22 00:09:19,301 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:09:19,322 INFO test [main] 30 сентября 2021
+2021-09-22 00:09:19,322 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:09:19,342 INFO test [main] 18 октября 2021
+2021-09-22 00:09:19,343 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:09:19,462 INFO test [main] 12 октября 2021
+2021-09-22 00:09:19,462 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:09:19,491 INFO test [main] 26 октября 2021
+2021-09-22 00:09:19,491 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:09:19,522 INFO test [main] 14 октября 2021
+2021-09-22 00:09:19,522 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:09:19,549 INFO test [main] 25 октября 2021
+2021-09-22 00:09:19,550 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:09:19,585 INFO test [main] 25 октября 2021
+2021-09-22 00:09:19,585 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:09:19,607 INFO test [main] 28 октября 2021
+2021-09-22 00:09:19,608 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:09:19,629 INFO test [main] 28 октября 2021
+2021-09-22 00:09:19,629 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:09:19,650 INFO test [main] 28 октября 2021
+2021-09-22 00:09:19,650 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:09:19,684 INFO test [main] 29 октября 2021
+2021-09-22 00:09:19,685 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:09:19,712 INFO test [main] 29 октября 2021
+2021-09-22 00:09:19,713 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:09:19,732 INFO test [main] 29 октября 2021
+2021-09-22 00:09:19,732 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:09:19,749 INFO test [main] 16 ноября 2021
+2021-09-22 00:09:19,750 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:09:19,765 INFO test [main] 19 ноября 2021
+2021-09-22 00:09:19,766 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:09:19,851 INFO test [main] 17 ноября 2021
+2021-09-22 00:09:19,851 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:09:19,869 INFO test [main] 26 ноября 2021
+2021-09-22 00:09:19,873 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:09:19,907 INFO test [main] 29 ноября 2021
+2021-09-22 00:09:19,908 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:09:19,949 INFO test [main] 16 декабря 2021
+2021-09-22 00:09:19,949 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:09:19,967 INFO test [main] 28 января 2022 года
+2021-09-22 00:09:19,967 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:09:20,105 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:09:20,105 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:09:20,105 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:09:20,105 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:09:21,824 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:09:21,825 INFO test [main] 22 сентября
+2021-09-22 00:09:31,089 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:09:34,489 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:09:34,489 INFO test [main] 28 января
+2021-09-22 00:09:39,323 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:11:16,305 INFO test [main] Старт теста
+2021-09-22 00:11:26,913 INFO test [main] Количество курсов на странице всего: 22
+2021-09-22 00:11:28,465 INFO test [main] Найдено курсов, содержащих в названии текст C#: 0
+2021-09-22 00:11:28,537 INFO test [main] 30 сентября 2021
+2021-09-22 00:11:28,539 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:11:28,565 INFO test [main] 30 сентября 2021
+2021-09-22 00:11:28,566 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:11:28,589 INFO test [main] 28 сентября 2021
+2021-09-22 00:11:28,590 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:11:28,593 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:11:28,593 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:11:28,593 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:11:28,593 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:11:33,717 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:11:33,718 INFO test [main] 28 сентября
+2021-09-22 00:11:43,159 INFO test [main] Выбран курс с самой ранней датой начала Microservice Architecture
+2021-09-22 00:11:45,593 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:11:45,594 INFO test [main] 30 сентября
+2021-09-22 00:11:52,606 INFO test [main] Выбран курс с самой поздней датой начала Программист С
+2021-09-22 00:11:52,607 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:11:52,607 INFO test [main] 28 сентября
+2021-09-22 00:13:06,746 INFO test [main] Старт теста
+2021-09-22 00:13:22,647 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:13:23,132 INFO test [main] C# Developer. Professional
+2021-09-22 00:13:23,228 INFO test [main] C# Developer. Basic
+2021-09-22 00:13:23,240 INFO test [main] Специализация C#
+2021-09-22 00:13:23,351 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:13:23,616 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:13:23,750 INFO test [main] 22 сентября 2021
+2021-09-22 00:13:23,752 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:13:23,778 INFO test [main] 30 сентября 2021
+2021-09-22 00:13:23,779 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:13:23,806 INFO test [main] 28 сентября 2021
+2021-09-22 00:13:23,807 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:13:23,829 INFO test [main] 28 сентября 2021
+2021-09-22 00:13:23,830 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:13:23,854 INFO test [main] 29 сентября 2021
+2021-09-22 00:13:23,855 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:13:23,881 INFO test [main] 30 сентября 2021
+2021-09-22 00:13:23,882 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:13:23,907 INFO test [main] 29 сентября 2021
+2021-09-22 00:13:23,907 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:13:23,931 INFO test [main] 30 сентября 2021
+2021-09-22 00:13:23,931 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:13:23,952 INFO test [main] 30 сентября 2021
+2021-09-22 00:13:23,952 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:13:23,975 INFO test [main] 30 сентября 2021
+2021-09-22 00:13:23,975 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:13:23,995 INFO test [main] 30 сентября 2021
+2021-09-22 00:13:23,995 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:13:24,017 INFO test [main] 28 сентября 2021
+2021-09-22 00:13:24,018 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:13:24,038 INFO test [main] 28 сентября 2021
+2021-09-22 00:13:24,039 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:13:24,060 INFO test [main] 28 сентября 2021
+2021-09-22 00:13:24,060 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:13:24,082 INFO test [main] 28 сентября 2021
+2021-09-22 00:13:24,082 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:13:24,102 INFO test [main] 29 сентября 2021
+2021-09-22 00:13:24,103 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:13:24,125 INFO test [main] 29 сентября 2021
+2021-09-22 00:13:24,125 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:13:24,146 INFO test [main] 30 сентября 2021
+2021-09-22 00:13:24,147 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:13:24,168 INFO test [main] 30 сентября 2021
+2021-09-22 00:13:24,168 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:13:24,188 INFO test [main] 18 октября 2021
+2021-09-22 00:13:24,189 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:13:24,214 INFO test [main] 12 октября 2021
+2021-09-22 00:13:24,215 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:13:24,236 INFO test [main] 26 октября 2021
+2021-09-22 00:13:24,236 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:13:24,280 INFO test [main] 14 октября 2021
+2021-09-22 00:13:24,281 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:13:24,310 INFO test [main] 25 октября 2021
+2021-09-22 00:13:24,310 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:13:24,336 INFO test [main] 25 октября 2021
+2021-09-22 00:13:24,337 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:13:24,363 INFO test [main] 28 октября 2021
+2021-09-22 00:13:24,363 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:13:24,441 INFO test [main] 28 октября 2021
+2021-09-22 00:13:24,442 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:13:24,504 INFO test [main] 28 октября 2021
+2021-09-22 00:13:24,505 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:13:24,523 INFO test [main] 29 октября 2021
+2021-09-22 00:13:24,525 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:13:24,552 INFO test [main] 29 октября 2021
+2021-09-22 00:13:24,553 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:13:24,572 INFO test [main] 29 октября 2021
+2021-09-22 00:13:24,572 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:13:24,602 INFO test [main] 16 ноября 2021
+2021-09-22 00:13:24,602 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:13:24,618 INFO test [main] 19 ноября 2021
+2021-09-22 00:13:24,618 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:13:24,694 INFO test [main] 17 ноября 2021
+2021-09-22 00:13:24,695 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:13:24,742 INFO test [main] 26 ноября 2021
+2021-09-22 00:13:24,743 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:13:24,759 INFO test [main] 29 ноября 2021
+2021-09-22 00:13:24,760 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:13:24,796 INFO test [main] 16 декабря 2021
+2021-09-22 00:13:24,797 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:13:24,816 INFO test [main] 28 января 2022 года
+2021-09-22 00:13:24,817 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:13:24,965 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:13:24,965 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:13:24,965 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:13:24,965 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:13:24,989 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:13:24,990 INFO test [main] 22 сентября
+2021-09-22 00:13:33,499 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:13:36,586 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:13:36,587 INFO test [main] 28 января
+2021-09-22 00:13:41,733 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:13:41,736 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:13:41,736 INFO test [main] 22 сентября
+2021-09-22 00:15:58,690 INFO test [main] Старт теста
+2021-09-22 00:16:14,145 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:16:14,686 INFO test [main] C# Developer. Professional
+2021-09-22 00:16:14,786 INFO test [main] C# Developer. Basic
+2021-09-22 00:16:14,798 INFO test [main] Специализация C#
+2021-09-22 00:16:14,909 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:16:15,178 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:16:15,315 INFO test [main] 22 сентября 2021
+2021-09-22 00:16:15,318 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:16:15,345 INFO test [main] 30 сентября 2021
+2021-09-22 00:16:15,346 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:16:15,370 INFO test [main] 28 сентября 2021
+2021-09-22 00:16:15,372 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:16:15,395 INFO test [main] 28 сентября 2021
+2021-09-22 00:16:15,396 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:16:15,420 INFO test [main] 29 сентября 2021
+2021-09-22 00:16:15,422 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:16:15,445 INFO test [main] 30 сентября 2021
+2021-09-22 00:16:15,447 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:16:15,473 INFO test [main] 29 сентября 2021
+2021-09-22 00:16:15,473 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:16:15,495 INFO test [main] 30 сентября 2021
+2021-09-22 00:16:15,496 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:16:15,516 INFO test [main] 30 сентября 2021
+2021-09-22 00:16:15,516 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:16:15,539 INFO test [main] 30 сентября 2021
+2021-09-22 00:16:15,539 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:16:15,560 INFO test [main] 30 сентября 2021
+2021-09-22 00:16:15,561 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:16:15,585 INFO test [main] 28 сентября 2021
+2021-09-22 00:16:15,586 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:16:15,607 INFO test [main] 28 сентября 2021
+2021-09-22 00:16:15,608 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:16:15,630 INFO test [main] 28 сентября 2021
+2021-09-22 00:16:15,630 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:16:15,652 INFO test [main] 28 сентября 2021
+2021-09-22 00:16:15,652 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:16:15,673 INFO test [main] 29 сентября 2021
+2021-09-22 00:16:15,675 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:16:15,700 INFO test [main] 29 сентября 2021
+2021-09-22 00:16:15,700 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:16:15,721 INFO test [main] 30 сентября 2021
+2021-09-22 00:16:15,721 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:16:15,742 INFO test [main] 30 сентября 2021
+2021-09-22 00:16:15,742 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:16:15,764 INFO test [main] 18 октября 2021
+2021-09-22 00:16:15,764 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:16:15,789 INFO test [main] 12 октября 2021
+2021-09-22 00:16:15,790 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:16:15,811 INFO test [main] 26 октября 2021
+2021-09-22 00:16:15,812 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:16:15,842 INFO test [main] 14 октября 2021
+2021-09-22 00:16:15,843 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:16:15,872 INFO test [main] 25 октября 2021
+2021-09-22 00:16:15,872 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:16:15,897 INFO test [main] 25 октября 2021
+2021-09-22 00:16:15,897 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:16:15,928 INFO test [main] 28 октября 2021
+2021-09-22 00:16:15,928 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:16:16,031 INFO test [main] 28 октября 2021
+2021-09-22 00:16:16,031 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:16:16,059 INFO test [main] 28 октября 2021
+2021-09-22 00:16:16,059 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:16:16,079 INFO test [main] 29 октября 2021
+2021-09-22 00:16:16,080 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:16:16,107 INFO test [main] 29 октября 2021
+2021-09-22 00:16:16,107 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:16:16,126 INFO test [main] 29 октября 2021
+2021-09-22 00:16:16,127 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:16:16,153 INFO test [main] 16 ноября 2021
+2021-09-22 00:16:16,154 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:16:16,169 INFO test [main] 19 ноября 2021
+2021-09-22 00:16:16,170 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:16:16,255 INFO test [main] 17 ноября 2021
+2021-09-22 00:16:16,256 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:16:16,277 INFO test [main] 26 ноября 2021
+2021-09-22 00:16:16,277 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:16:16,295 INFO test [main] 29 ноября 2021
+2021-09-22 00:16:16,296 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:16:16,333 INFO test [main] 16 декабря 2021
+2021-09-22 00:16:16,333 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:16:16,362 INFO test [main] 28 января 2022 года
+2021-09-22 00:16:16,363 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:16:16,509 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:16:16,510 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:16:16,510 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:16:16,510 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:16:16,532 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:16:16,532 INFO test [main] 22 сентября
+2021-09-22 00:16:23,356 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:16:25,509 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:16:25,510 INFO test [main] 28 января
+2021-09-22 00:16:28,596 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:16:28,599 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:16:28,599 INFO test [main] 22 сентября
+2021-09-22 00:17:33,358 INFO test [main] Старт теста
+2021-09-22 00:17:48,822 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:17:49,331 INFO test [main] C# Developer. Professional
+2021-09-22 00:17:49,429 INFO test [main] C# Developer. Basic
+2021-09-22 00:17:49,441 INFO test [main] Специализация C#
+2021-09-22 00:17:49,551 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:17:49,817 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:17:49,953 INFO test [main] 22 сентября 2021
+2021-09-22 00:17:49,955 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:17:49,981 INFO test [main] 30 сентября 2021
+2021-09-22 00:17:49,982 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:17:50,006 INFO test [main] 28 сентября 2021
+2021-09-22 00:17:50,007 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,028 INFO test [main] 28 сентября 2021
+2021-09-22 00:17:50,029 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,052 INFO test [main] 29 сентября 2021
+2021-09-22 00:17:50,053 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:17:50,078 INFO test [main] 30 сентября 2021
+2021-09-22 00:17:50,079 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:17:50,104 INFO test [main] 29 сентября 2021
+2021-09-22 00:17:50,104 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:17:50,126 INFO test [main] 30 сентября 2021
+2021-09-22 00:17:50,127 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:17:50,149 INFO test [main] 30 сентября 2021
+2021-09-22 00:17:50,149 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:17:50,173 INFO test [main] 30 сентября 2021
+2021-09-22 00:17:50,174 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:17:50,196 INFO test [main] 30 сентября 2021
+2021-09-22 00:17:50,196 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:17:50,219 INFO test [main] 28 сентября 2021
+2021-09-22 00:17:50,219 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,240 INFO test [main] 28 сентября 2021
+2021-09-22 00:17:50,241 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,265 INFO test [main] 28 сентября 2021
+2021-09-22 00:17:50,265 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,328 INFO test [main] 28 сентября 2021
+2021-09-22 00:17:50,328 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,353 INFO test [main] 29 сентября 2021
+2021-09-22 00:17:50,353 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:17:50,470 INFO test [main] 29 сентября 2021
+2021-09-22 00:17:50,471 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:17:50,493 INFO test [main] 30 сентября 2021
+2021-09-22 00:17:50,493 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:17:50,514 INFO test [main] 30 сентября 2021
+2021-09-22 00:17:50,514 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:17:50,547 INFO test [main] 18 октября 2021
+2021-09-22 00:17:50,547 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:17:50,571 INFO test [main] 12 октября 2021
+2021-09-22 00:17:50,572 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:17:50,593 INFO test [main] 26 октября 2021
+2021-09-22 00:17:50,593 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:17:50,623 INFO test [main] 14 октября 2021
+2021-09-22 00:17:50,623 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:17:50,659 INFO test [main] 25 октября 2021
+2021-09-22 00:17:50,660 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:17:50,685 INFO test [main] 25 октября 2021
+2021-09-22 00:17:50,685 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:17:50,708 INFO test [main] 28 октября 2021
+2021-09-22 00:17:50,709 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,731 INFO test [main] 28 октября 2021
+2021-09-22 00:17:50,731 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,766 INFO test [main] 28 октября 2021
+2021-09-22 00:17:50,767 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:17:50,786 INFO test [main] 29 октября 2021
+2021-09-22 00:17:50,787 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:17:50,813 INFO test [main] 29 октября 2021
+2021-09-22 00:17:50,814 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:17:50,833 INFO test [main] 29 октября 2021
+2021-09-22 00:17:50,833 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:17:50,850 INFO test [main] 16 ноября 2021
+2021-09-22 00:17:50,851 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:17:50,877 INFO test [main] 19 ноября 2021
+2021-09-22 00:17:50,878 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:17:50,957 INFO test [main] 17 ноября 2021
+2021-09-22 00:17:50,957 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:17:50,985 INFO test [main] 26 ноября 2021
+2021-09-22 00:17:50,986 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:17:51,004 INFO test [main] 29 ноября 2021
+2021-09-22 00:17:51,004 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:17:51,040 INFO test [main] 16 декабря 2021
+2021-09-22 00:17:51,040 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:17:51,058 INFO test [main] 28 января 2022 года
+2021-09-22 00:17:51,059 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:17:51,192 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:17:51,192 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:17:51,192 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:17:51,192 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:17:51,217 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:17:51,218 INFO test [main] 22 сентября
+2021-09-22 00:17:58,365 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:18:00,545 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:18:00,547 INFO test [main] 28 января
+2021-09-22 00:18:06,624 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:18:06,629 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:18:06,629 INFO test [main] 22 сентября
+2021-09-22 00:20:18,667 INFO test [main] Старт теста
+2021-09-22 00:20:34,215 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:20:34,734 INFO test [main] C# Developer. Professional
+2021-09-22 00:20:34,842 INFO test [main] C# Developer. Basic
+2021-09-22 00:20:34,854 INFO test [main] Специализация C#
+2021-09-22 00:20:34,967 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:20:35,234 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:20:35,372 INFO test [main] 22 сентября 2021
+2021-09-22 00:20:35,374 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:20:35,401 INFO test [main] 30 сентября 2021
+2021-09-22 00:20:35,401 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:20:35,428 INFO test [main] 28 сентября 2021
+2021-09-22 00:20:35,430 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:20:35,452 INFO test [main] 28 сентября 2021
+2021-09-22 00:20:35,453 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:20:35,476 INFO test [main] 29 сентября 2021
+2021-09-22 00:20:35,477 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:20:35,501 INFO test [main] 30 сентября 2021
+2021-09-22 00:20:35,502 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:20:35,527 INFO test [main] 29 сентября 2021
+2021-09-22 00:20:35,528 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:20:35,551 INFO test [main] 30 сентября 2021
+2021-09-22 00:20:35,552 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:20:35,573 INFO test [main] 30 сентября 2021
+2021-09-22 00:20:35,573 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:20:35,597 INFO test [main] 30 сентября 2021
+2021-09-22 00:20:35,597 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:20:35,619 INFO test [main] 30 сентября 2021
+2021-09-22 00:20:35,619 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:20:35,642 INFO test [main] 28 сентября 2021
+2021-09-22 00:20:35,643 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:20:35,664 INFO test [main] 28 сентября 2021
+2021-09-22 00:20:35,665 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:20:35,686 INFO test [main] 28 сентября 2021
+2021-09-22 00:20:35,686 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:20:35,708 INFO test [main] 28 сентября 2021
+2021-09-22 00:20:35,708 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:20:35,730 INFO test [main] 29 сентября 2021
+2021-09-22 00:20:35,730 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:20:35,754 INFO test [main] 29 сентября 2021
+2021-09-22 00:20:35,754 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:20:35,777 INFO test [main] 30 сентября 2021
+2021-09-22 00:20:35,778 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:20:35,799 INFO test [main] 30 сентября 2021
+2021-09-22 00:20:35,799 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:20:35,822 INFO test [main] 18 октября 2021
+2021-09-22 00:20:35,822 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:20:35,847 INFO test [main] 12 октября 2021
+2021-09-22 00:20:35,848 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:20:35,871 INFO test [main] 26 октября 2021
+2021-09-22 00:20:35,871 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:20:35,902 INFO test [main] 14 октября 2021
+2021-09-22 00:20:35,902 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:20:36,020 INFO test [main] 25 октября 2021
+2021-09-22 00:20:36,020 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:20:36,054 INFO test [main] 25 октября 2021
+2021-09-22 00:20:36,054 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:20:36,077 INFO test [main] 28 октября 2021
+2021-09-22 00:20:36,078 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:20:36,102 INFO test [main] 28 октября 2021
+2021-09-22 00:20:36,103 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:20:36,125 INFO test [main] 28 октября 2021
+2021-09-22 00:20:36,125 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:20:36,159 INFO test [main] 29 октября 2021
+2021-09-22 00:20:36,160 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:20:36,186 INFO test [main] 29 октября 2021
+2021-09-22 00:20:36,187 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:20:36,206 INFO test [main] 29 октября 2021
+2021-09-22 00:20:36,206 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:20:36,225 INFO test [main] 16 ноября 2021
+2021-09-22 00:20:36,225 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:20:36,242 INFO test [main] 19 ноября 2021
+2021-09-22 00:20:36,243 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:20:36,332 INFO test [main] 17 ноября 2021
+2021-09-22 00:20:36,332 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:20:36,352 INFO test [main] 26 ноября 2021
+2021-09-22 00:20:36,353 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:20:36,384 INFO test [main] 29 ноября 2021
+2021-09-22 00:20:36,385 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:20:36,422 INFO test [main] 16 декабря 2021
+2021-09-22 00:20:36,422 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:20:36,440 INFO test [main] 28 января 2022 года
+2021-09-22 00:20:36,441 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:20:36,583 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:20:36,583 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:20:36,583 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:20:36,583 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:20:36,612 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:20:36,612 INFO test [main] 22 сентября
+2021-09-22 00:20:40,990 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:20:44,208 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:20:44,209 INFO test [main] 28 января
+2021-09-22 00:20:48,319 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:20:48,323 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:20:48,323 INFO test [main] 22 сентября
+2021-09-22 00:21:54,711 INFO test [main] Старт теста
+2021-09-22 00:22:10,231 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:22:10,767 INFO test [main] C# Developer. Professional
+2021-09-22 00:22:10,867 INFO test [main] C# Developer. Basic
+2021-09-22 00:22:10,879 INFO test [main] Специализация C#
+2021-09-22 00:22:10,994 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:22:11,272 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:22:11,408 INFO test [main] 22 сентября 2021
+2021-09-22 00:22:11,410 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:22:11,437 INFO test [main] 30 сентября 2021
+2021-09-22 00:22:11,437 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:22:11,464 INFO test [main] 28 сентября 2021
+2021-09-22 00:22:11,465 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:22:11,488 INFO test [main] 28 сентября 2021
+2021-09-22 00:22:11,489 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:22:11,512 INFO test [main] 29 сентября 2021
+2021-09-22 00:22:11,514 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:22:11,538 INFO test [main] 30 сентября 2021
+2021-09-22 00:22:11,539 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:22:11,564 INFO test [main] 29 сентября 2021
+2021-09-22 00:22:11,565 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:22:11,588 INFO test [main] 30 сентября 2021
+2021-09-22 00:22:11,588 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:22:11,608 INFO test [main] 30 сентября 2021
+2021-09-22 00:22:11,608 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:22:11,632 INFO test [main] 30 сентября 2021
+2021-09-22 00:22:11,633 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:22:11,654 INFO test [main] 30 сентября 2021
+2021-09-22 00:22:11,654 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:22:11,676 INFO test [main] 28 сентября 2021
+2021-09-22 00:22:11,677 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:22:11,700 INFO test [main] 28 сентября 2021
+2021-09-22 00:22:11,701 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:22:11,724 INFO test [main] 28 сентября 2021
+2021-09-22 00:22:11,725 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:22:11,747 INFO test [main] 28 сентября 2021
+2021-09-22 00:22:11,747 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:22:11,770 INFO test [main] 29 сентября 2021
+2021-09-22 00:22:11,770 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:22:11,795 INFO test [main] 29 сентября 2021
+2021-09-22 00:22:11,796 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:22:11,817 INFO test [main] 30 сентября 2021
+2021-09-22 00:22:11,818 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:22:11,838 INFO test [main] 30 сентября 2021
+2021-09-22 00:22:11,839 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:22:11,860 INFO test [main] 18 октября 2021
+2021-09-22 00:22:11,860 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:22:11,884 INFO test [main] 12 октября 2021
+2021-09-22 00:22:11,885 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:22:11,906 INFO test [main] 26 октября 2021
+2021-09-22 00:22:11,907 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:22:11,938 INFO test [main] 14 октября 2021
+2021-09-22 00:22:11,938 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:22:11,965 INFO test [main] 25 октября 2021
+2021-09-22 00:22:11,965 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:22:11,990 INFO test [main] 25 октября 2021
+2021-09-22 00:22:11,991 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:22:12,014 INFO test [main] 28 октября 2021
+2021-09-22 00:22:12,015 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:22:12,037 INFO test [main] 28 октября 2021
+2021-09-22 00:22:12,037 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:22:12,059 INFO test [main] 28 октября 2021
+2021-09-22 00:22:12,059 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:22:12,092 INFO test [main] 29 октября 2021
+2021-09-22 00:22:12,093 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:22:12,120 INFO test [main] 29 октября 2021
+2021-09-22 00:22:12,121 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:22:12,141 INFO test [main] 29 октября 2021
+2021-09-22 00:22:12,142 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:22:12,160 INFO test [main] 16 ноября 2021
+2021-09-22 00:22:12,160 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:22:12,177 INFO test [main] 19 ноября 2021
+2021-09-22 00:22:12,177 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:22:12,363 INFO test [main] 17 ноября 2021
+2021-09-22 00:22:12,363 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:22:12,382 INFO test [main] 26 ноября 2021
+2021-09-22 00:22:12,383 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:22:12,400 INFO test [main] 29 ноября 2021
+2021-09-22 00:22:12,400 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:22:12,449 INFO test [main] 16 декабря 2021
+2021-09-22 00:22:12,450 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:22:12,468 INFO test [main] 28 января 2022 года
+2021-09-22 00:22:12,469 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:22:12,634 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:22:12,634 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:22:12,634 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:22:12,634 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:22:12,659 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:22:12,659 INFO test [main] 22 сентября
+2021-09-22 00:22:17,279 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:22:19,470 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:22:19,471 INFO test [main] 28 января
+2021-09-22 00:22:23,299 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:23:12,464 INFO test [main] Старт теста
+2021-09-22 00:23:28,509 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:23:28,994 INFO test [main] C# Developer. Professional
+2021-09-22 00:23:29,090 INFO test [main] C# Developer. Basic
+2021-09-22 00:23:29,103 INFO test [main] Специализация C#
+2021-09-22 00:23:29,214 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:23:29,486 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:23:29,626 INFO test [main] 22 сентября 2021
+2021-09-22 00:23:29,629 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:23:29,656 INFO test [main] 30 сентября 2021
+2021-09-22 00:23:29,656 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:23:29,682 INFO test [main] 28 сентября 2021
+2021-09-22 00:23:29,683 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:23:29,707 INFO test [main] 28 сентября 2021
+2021-09-22 00:23:29,708 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:23:29,730 INFO test [main] 29 сентября 2021
+2021-09-22 00:23:29,731 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:23:29,756 INFO test [main] 30 сентября 2021
+2021-09-22 00:23:29,757 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:23:29,784 INFO test [main] 29 сентября 2021
+2021-09-22 00:23:29,785 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:23:29,807 INFO test [main] 30 сентября 2021
+2021-09-22 00:23:29,807 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:23:29,827 INFO test [main] 30 сентября 2021
+2021-09-22 00:23:29,828 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:23:29,851 INFO test [main] 30 сентября 2021
+2021-09-22 00:23:29,851 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:23:29,871 INFO test [main] 30 сентября 2021
+2021-09-22 00:23:29,871 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:23:29,895 INFO test [main] 28 сентября 2021
+2021-09-22 00:23:29,895 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:23:29,917 INFO test [main] 28 сентября 2021
+2021-09-22 00:23:29,918 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:23:29,938 INFO test [main] 28 сентября 2021
+2021-09-22 00:23:29,939 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:23:29,961 INFO test [main] 28 сентября 2021
+2021-09-22 00:23:29,961 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:23:29,982 INFO test [main] 29 сентября 2021
+2021-09-22 00:23:29,983 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:23:30,006 INFO test [main] 29 сентября 2021
+2021-09-22 00:23:30,006 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:23:30,029 INFO test [main] 30 сентября 2021
+2021-09-22 00:23:30,029 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:23:30,051 INFO test [main] 30 сентября 2021
+2021-09-22 00:23:30,051 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:23:30,072 INFO test [main] 18 октября 2021
+2021-09-22 00:23:30,072 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:23:30,138 INFO test [main] 12 октября 2021
+2021-09-22 00:23:30,138 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:23:30,196 INFO test [main] 26 октября 2021
+2021-09-22 00:23:30,196 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:23:30,228 INFO test [main] 14 октября 2021
+2021-09-22 00:23:30,229 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:23:30,259 INFO test [main] 25 октября 2021
+2021-09-22 00:23:30,259 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:23:30,283 INFO test [main] 25 октября 2021
+2021-09-22 00:23:30,283 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:23:30,306 INFO test [main] 28 октября 2021
+2021-09-22 00:23:30,307 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:23:30,338 INFO test [main] 28 октября 2021
+2021-09-22 00:23:30,339 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:23:30,361 INFO test [main] 28 октября 2021
+2021-09-22 00:23:30,361 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:23:30,381 INFO test [main] 29 октября 2021
+2021-09-22 00:23:30,382 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:23:30,409 INFO test [main] 29 октября 2021
+2021-09-22 00:23:30,410 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:23:30,430 INFO test [main] 29 октября 2021
+2021-09-22 00:23:30,430 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:23:30,458 INFO test [main] 16 ноября 2021
+2021-09-22 00:23:30,458 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:23:30,474 INFO test [main] 19 ноября 2021
+2021-09-22 00:23:30,475 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:23:30,562 INFO test [main] 17 ноября 2021
+2021-09-22 00:23:30,563 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:23:30,582 INFO test [main] 26 ноября 2021
+2021-09-22 00:23:30,582 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:23:30,600 INFO test [main] 29 ноября 2021
+2021-09-22 00:23:30,601 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:23:30,638 INFO test [main] 16 декабря 2021
+2021-09-22 00:23:30,638 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:23:30,668 INFO test [main] 28 января 2022 года
+2021-09-22 00:23:30,669 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:23:30,807 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:23:30,808 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:23:30,808 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:23:30,808 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:23:30,829 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:23:30,830 INFO test [main] 22 сентября
+2021-09-22 00:23:35,790 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:23:37,391 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:23:37,392 INFO test [main] 28 января
+2021-09-22 00:23:41,262 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
+2021-09-22 00:24:52,939 INFO test [main] Старт теста
+2021-09-22 00:25:09,674 INFO test [main] Количество курсов на странице всего: 64
+2021-09-22 00:25:10,237 INFO test [main] C# Developer. Professional
+2021-09-22 00:25:10,336 INFO test [main] C# Developer. Basic
+2021-09-22 00:25:10,348 INFO test [main] Специализация C#
+2021-09-22 00:25:10,459 INFO test [main] C# ASP.NET Core разработчик
+2021-09-22 00:25:10,729 INFO test [main] Найдено курсов, содержащих в названии текст C#: 4
+2021-09-22 00:25:10,873 INFO test [main] 22 сентября 2021
+2021-09-22 00:25:10,876 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:25:10,901 INFO test [main] 30 сентября 2021
+2021-09-22 00:25:10,901 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:25:10,927 INFO test [main] 28 сентября 2021
+2021-09-22 00:25:10,928 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:25:10,951 INFO test [main] 28 сентября 2021
+2021-09-22 00:25:10,952 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:25:10,975 INFO test [main] 29 сентября 2021
+2021-09-22 00:25:10,976 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:25:11,001 INFO test [main] 30 сентября 2021
+2021-09-22 00:25:11,003 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:25:11,029 INFO test [main] 29 сентября 2021
+2021-09-22 00:25:11,030 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:25:11,052 INFO test [main] 30 сентября 2021
+2021-09-22 00:25:11,053 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:25:11,074 INFO test [main] 30 сентября 2021
+2021-09-22 00:25:11,075 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:25:11,099 INFO test [main] 30 сентября 2021
+2021-09-22 00:25:11,099 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:25:11,118 INFO test [main] 30 сентября 2021
+2021-09-22 00:25:11,119 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:25:11,141 INFO test [main] 28 сентября 2021
+2021-09-22 00:25:11,142 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:25:11,163 INFO test [main] 28 сентября 2021
+2021-09-22 00:25:11,163 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:25:11,184 INFO test [main] 28 сентября 2021
+2021-09-22 00:25:11,184 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:25:11,205 INFO test [main] 28 сентября 2021
+2021-09-22 00:25:11,205 INFO test [main] Tue Sep 28 00:00:00 MSK 2021
+2021-09-22 00:25:11,228 INFO test [main] 29 сентября 2021
+2021-09-22 00:25:11,228 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:25:11,253 INFO test [main] 29 сентября 2021
+2021-09-22 00:25:11,253 INFO test [main] Wed Sep 29 00:00:00 MSK 2021
+2021-09-22 00:25:11,276 INFO test [main] 30 сентября 2021
+2021-09-22 00:25:11,276 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:25:11,296 INFO test [main] 30 сентября 2021
+2021-09-22 00:25:11,296 INFO test [main] Thu Sep 30 00:00:00 MSK 2021
+2021-09-22 00:25:11,318 INFO test [main] 18 октября 2021
+2021-09-22 00:25:11,318 INFO test [main] Mon Oct 18 00:00:00 MSK 2021
+2021-09-22 00:25:11,341 INFO test [main] 12 октября 2021
+2021-09-22 00:25:11,342 INFO test [main] Tue Oct 12 00:00:00 MSK 2021
+2021-09-22 00:25:11,364 INFO test [main] 26 октября 2021
+2021-09-22 00:25:11,365 INFO test [main] Tue Oct 26 00:00:00 MSK 2021
+2021-09-22 00:25:11,487 INFO test [main] 14 октября 2021
+2021-09-22 00:25:11,487 INFO test [main] Thu Oct 14 00:00:00 MSK 2021
+2021-09-22 00:25:11,524 INFO test [main] 25 октября 2021
+2021-09-22 00:25:11,525 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:25:11,548 INFO test [main] 25 октября 2021
+2021-09-22 00:25:11,548 INFO test [main] Mon Oct 25 00:00:00 MSK 2021
+2021-09-22 00:25:11,571 INFO test [main] 28 октября 2021
+2021-09-22 00:25:11,571 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:25:11,592 INFO test [main] 28 октября 2021
+2021-09-22 00:25:11,592 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:25:11,624 INFO test [main] 28 октября 2021
+2021-09-22 00:25:11,625 INFO test [main] Thu Oct 28 00:00:00 MSK 2021
+2021-09-22 00:25:11,644 INFO test [main] 29 октября 2021
+2021-09-22 00:25:11,645 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:25:11,672 INFO test [main] 29 октября 2021
+2021-09-22 00:25:11,673 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:25:11,692 INFO test [main] 29 октября 2021
+2021-09-22 00:25:11,692 INFO test [main] Fri Oct 29 00:00:00 MSK 2021
+2021-09-22 00:25:11,709 INFO test [main] 16 ноября 2021
+2021-09-22 00:25:11,709 INFO test [main] Tue Nov 16 00:00:00 MSK 2021
+2021-09-22 00:25:11,735 INFO test [main] 19 ноября 2021
+2021-09-22 00:25:11,736 INFO test [main] Fri Nov 19 00:00:00 MSK 2021
+2021-09-22 00:25:11,812 INFO test [main] 17 ноября 2021
+2021-09-22 00:25:11,813 INFO test [main] Wed Nov 17 00:00:00 MSK 2021
+2021-09-22 00:25:11,848 INFO test [main] 26 ноября 2021
+2021-09-22 00:25:11,848 INFO test [main] Fri Nov 26 00:00:00 MSK 2021
+2021-09-22 00:25:11,867 INFO test [main] 29 ноября 2021
+2021-09-22 00:25:11,868 INFO test [main] Mon Nov 29 00:00:00 MSK 2021
+2021-09-22 00:25:11,906 INFO test [main] 16 декабря 2021
+2021-09-22 00:25:11,906 INFO test [main] Thu Dec 16 00:00:00 MSK 2021
+2021-09-22 00:25:11,924 INFO test [main] 28 января 2022 года
+2021-09-22 00:25:11,925 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:25:12,076 INFO test [main] Самая ранняя дата начала курсов
+2021-09-22 00:25:12,076 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:25:12,076 INFO test [main] Самая поздняя дата начала курсов
+2021-09-22 00:25:12,077 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:25:12,100 INFO test [main] Wed Sep 22 00:00:00 MSK 2021
+2021-09-22 00:25:12,101 INFO test [main] 22 сентября
+2021-09-22 00:25:16,464 INFO test [main] Выбран курс с самой ранней датой начала C++ Developer. Professional
+2021-09-22 00:25:18,871 INFO test [main] Fri Jan 28 00:00:00 MSK 2022
+2021-09-22 00:25:18,872 INFO test [main] 28 января
+2021-09-22 00:25:22,983 INFO test [main] Выбран курс с самой поздней датой начала Symfony Framework
